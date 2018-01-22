@@ -16,7 +16,7 @@ In this class, students will learn about applying creative processes to teaching
 - Week 8: Platforms 
 - Week 9: Museum as a school
 - Week 10: Community as a school 
-- Week 11:Final project proposal
+- Week 11: Final project proposal
 - Week 12: Final presentation #2
 
 Full semester course based on [a class of same title](https://github.com/tchoi8/teachingasart) offered in Spring 2017  
@@ -56,6 +56,8 @@ January 22, 2018
 
 [Lecture 1. Learner](https://tchoi8.github.io/teachingasart/lecture1.html) 
 
+[Notes 1.](https://github.com/tchoi8/teachingasart2018/blob/master/lectures/lecture1.md)
+
 Introduction of the course and the instructor's practice and Teaching philosophy. Questions about Learning.  
 
 Rotating roles: 
@@ -69,6 +71,10 @@ Rotating roles:
 In-class exercise: Create a map that illustrates how you learn something.
 
 Assignment: **Autobiography as a learner**: Write a 500 word essay to accompany the map.  
+
+How to submit your homework with a [pull request](https://docs.google.com/document/d/11bsm00rNRB2mtVp4ibYQvqneai_HIpohiQw9FV5nUFk/edit?usp=sharing).
+
+Deadline: 1/28/2018. Sunday morning by 10am.
 
 
 ## Week 2. Curriculum
