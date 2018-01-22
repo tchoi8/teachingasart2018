@@ -2,9 +2,9 @@
  
 A graduate level course offered at NYU ITP in Spring 2018 
 
-This class is for artists and creative technologists who want to teach. A good teacher is also a great student themselves. They transform their curiosity into knowledge and share their learning process with others. One can learn to become a better teacher by staying fearless about ‘not knowing’ something, embracing radically open ideas and connecting various expertise and knowledge. Teaching can be a form of artistic and creative practice in collaboration with a diverse community. Teachers can invent new forms of learning spaces, new kinds of collaboration and new sense of community.
+This class is for artists and creative technologists who want to teach. A good teacher is also a great student themself. They transform their curiosity into knowledge and share their learning processes with others. One can learn to become a better teacher by staying fearless about ‘not knowing’ something, embracing radically open ideas and connecting various expertise and knowledge. Teaching can be a form of artistic and creative practice in collaboration with a diverse community. Teachers can invent new forms of learning spaces, new kinds of collaboration and new senses of community.
 
-In this class, students will learn about applying creative processes to teaching. Students will read about the history of artists in and out of academic institutions, Black Mountain College as well as more recent experiments. Students are expected to engage in a critical discussion about the topic.
+In this class, students will learn about applying creative processes to teaching. Students will read about the history of artists in and out of academic institutions, Black Mountain College as well as more recent experiments. Students are expected to engage in critical discussions about the topic.
 
 - Week 1: Learning
 - Week 2: Curriculum
@@ -34,11 +34,11 @@ The class will use a dedicated [Are.na channel](https://www.are.na/taeyoon-choi/
 
 Students and teacher will respect each other as equals, will speak and write kindly to each other. They will challenge each other academically and artistically.  
  
-Students will be ready in class, five minutes before the begin time. Two late arrivals after 5 minutes count as an absence, two absences will be immediately fail. There will be no exceptions. 
+Students will be ready in class, five minutes before the start time. Two late arrivals after 5 minutes count as an absence, two absences will result in an immediate fail. There will be no exceptions. 
 
-Students will use this GitHub repository to find the latest syllabus, reading materials as well as to submit their assignments. 
+Students will use this GitHub repository to find the latest syllabus and reading materials as well as to submit their assignments. 
 
-Students will submit their assignment by every Sunday morning 10am. Assignments submitted after 10am will not be reviewed before the class. Students may update their assignment after initial submission and after each class. 
+Students will submit their assignment every Sunday morning by 10am. Assignments submitted after 10am will not be reviewed before the class. Students may update their assignment after initial submission and after each class. 
 
 
 Reading assignment for next week: 
@@ -68,7 +68,7 @@ Rotating roles:
 
 In-class exercise: Create a map that illustrates how you learn something.
 
-Assignment: **Autobiography as a learner** Write a 500 words essay to accompany the map.  
+Assignment: **Autobiography as a learner** Write a 500 word essay to accompany the map.  
 
 
 ## Week 2. Curriculum
@@ -118,7 +118,7 @@ In class activity: School master
 
 Each student will pair up with another student. They will introduce their curriculum (assignment)to each other. 10 minutes each. 
 
-As a presentation for the whole class, the students will present their curriculum from the perspective of a teacher (or a schoolmaster). The partner will give feedback in perspective of a student in the school.  and vice versa.
+As a presentation for the whole class, the students will present their curriculum from the perspective of a teacher (or a schoolmaster). The partner will give feedback from the perspective of a student in the school. and vice versa.
 it will be like role playing. 
 
 
@@ -155,7 +155,7 @@ Special focus on disability and access for Deaf, blind and wheelchair users.
 
 March 5, 2018 
 
-Student
+Studens will present each for 10 minutes.
 
 and enjoy 1 week of no class. :)
 
@@ -169,7 +169,7 @@ Lecture about combining theory and practice in art and teaching, through unlearn
 
 - [Unlearnign disability](https://speakerdeck.com/tchoi8/unlearning-disability) 
 - [Capability and potentiality](https://tchoi8.github.io/poetic-computation-16/slides/week7#/) 
-- Judtih Butler 
+- Judith Butler 
 - Martha Nussbaum 
 
 Student presentation about a lesson plan for a workshop.
