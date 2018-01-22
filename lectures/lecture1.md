@@ -10,7 +10,7 @@ Expectations for students. You will create material for your workshop. You will 
 
 Introduction of students, what are you excited about? why did you decide to take this class?
 
-#1.
+# 1.
 
 Why Art matters?
 
@@ -45,7 +45,7 @@ I take art seriously, almost religiously. Without art, life would be really dull
 The art of teaching and the teaching of art are different. I need to talk about Art to talk about teaching.
 
 
-#2.
+# 2.
 
 Teaching as a gift
 
@@ -57,7 +57,7 @@ Teaching as a gift
 - A classroom in conflict, or finding–creating a learning environment in a site of conflict  
 
 
-#3-4.
+# 3-4.
 
 Student: But a Gift, in sociology, is something people give to each other in hopes of a reward or compensation?
 
@@ -69,12 +69,12 @@ Student: How about bad teachers? Teachers who approach teaching as a purely prof
 
 Good teachers and bad teachers are different. There's a lot to learn from bad teachers. It can be a bad curricular system that makes a bad teacher.
 
-#5.
+# 5.
 Kant's notion of education stresses discipline over creativity.
 
 It feels like much of the public education system enforces discipline to tailor people to fit into society.  
 
-#6.
+# 6.
 Education, in a traditional understanding, is taming the nature into utilitarian purpose. It's like cutting a tree into a log, and then making a pencil from it.
 
 Learning is about learning to learn. You may remember learning to ride a bicycle. Verbal instructions offer little help. You need to ride the bicycle and fall a few times, learn to take risks, each time balancing your movement.
@@ -85,26 +85,26 @@ Taeyoon: "Can you elaborate?"
 
 Student elaborates
 
-#7.
+# 7.
 
 
 "In learning an action, instead of having it given ready-made, one of necessity learns to vary its factors, to make varied combinations of them, according to change of circumstances. A possibility of continuing progress is opened up by the fact that in learning one act, methods are developed good for use in other situations. Still more important is the fact that the human being acquires a habit of learning. He learns to learn."
 – [Democracy and Education](https://www.gutenberg.org/files/852/852-h/852-h.htm) by John Dewey
 
 
-#8.
+# 8.
 
 Teaching is about lifting up the students. It's giving a chance to see beyond the fence.
 
 I was thinking about "what you want to learn, how you want to learn" When I was preparing this class.
 
-#9.
+# 9.
 
 Teaching as learning
 
 The secret of teaching effectively is to think from the perspective of someone who is learning
 
-#10.
+# 10.
 Teacher and Student. Being a teacher and student is like playing a game of musical chairs. The player's roles may rotate. It's a play as in the 'appropriation of power'.
 
 
@@ -114,7 +114,7 @@ Anni Albers is a very important figure. Unfortuantely, because history was writt
 
 – [Handweaving Today: Textile Work at Black Mountain College](http://www.albersfoundation.org/teaching/anni-albers/texts/#) by Anni Albers
 
-#18-19.
+# 18-19.
 
 Anni Alber's approach is radical, because she focuses on the materiality of textile as a starting point for design. It's not relying on a dream of what the work is going to be, but emerges in the material and lets the form emerge out of the process.
 
@@ -127,7 +127,7 @@ Taeyoon: Could you elaborate?
 /details to work on. Deleuze's notion of the painter coming with many ideas about what the painting can be, and subtracting it to give form...
 
 
-#21.
+# 21.
 
 Drawing of my desk. I read, write and eat there. I have some knowledge, opinions and experiences that don't mean much on its own.
 
@@ -147,7 +147,7 @@ questioning underlying engineering principles without accepting formal architect
 - [The Black Mountain College Experiment Revisited](https://www.youtube.com/watch?v=IlnAvD5_Lws), a talk by Eva Díaz
 - [Black Mountain College: Experiment in Art](https://mitpress.mit.edu/books/black-mountain-college) by Vincent Katz
 
-#23-26.
+# 23-26.
 Buckminster Fuller, an eccentric futurist
 
 Utopia, utilitiy, futility, Industrialism.
@@ -156,11 +156,11 @@ Institute of Design, Chicago
 
 The trouble between Fuller and Kenneth Snelson, Fuller's student who was upset about a credit to his invention and contribution.
 
-#27.
+# 27.
 Constructivist Theory of Learning, simply put is learning by doing and making.  
 
 
-#28.
+# 28.
 
 1. One dot is just information.
 
@@ -174,7 +174,7 @@ Constructivist Theory of Learning, simply put is learning by doing and making.
 
 Learning is like connecting lots of sensory data and the abstracted associations, and building a world with it.
 
-#30-31.
+# 30-31.
 
 Learning is building a habit. People learn by making a muscle memory of doing something, repetition is important, necessary.
 
@@ -182,7 +182,7 @@ Teaching is making a habitat, an environment where one can build the habit.
 
 In the comic, I illustrate the theory of creating a habitat literally. The dots and lines become a tent, in which a person can sleep.
 
-#32.
+# 32.
 
 
 “authentic education is not carried on by “A” for “B” or by “A” about “B,” but rather by “A” with “B." – Pedagogy of the Oppressed by Paolo Freire, pg 93, [Problem-posing education](https://en.wikipedia.org/wiki/Problem-posing_education)
