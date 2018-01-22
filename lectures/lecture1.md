@@ -8,7 +8,7 @@ Introduction, expectations, schedule.
 
 Expectations for students. You will create material for your workshop. You will try teaching in real life.  
 
-Introduction of students, what are you excited about? why did you decide to take this class?
+Introduction of students, what are you excited about? Why did you decide to take this class?
 
 # 1.
 
@@ -32,13 +32,13 @@ Taeyoon: You can only get so far. I think Art professionals have a pretty good b
 
 I agree Art is an expression, but Art is more than just a delivery of expression. Art is a way of finding a meaning.
 
-Art matters because it's very material. Digital art, or even Conceptual art has material impact on how we see and experience the world. Our perceptions change through art.
+Art matters because it's very material. Digital art or even Conceptual art has a material impact on how we see and experience the world. Our perceptions change through art.
 
 Art gives a different way of communicating. It's closer to affect compared to language. It's the intensity and transmission, before we recognize what emotion it is. It's prior to taste or 'understanding.'  
 
-Art has a sublime quality which gives a chance to question our being. I have relationship with artworks, and I'm speaking broadly about art, including painting or music, literature or cinema. Each time I see the work, there's something more for me. It gives something new to me. And every time, I change a little bit by experiencing the artwork. It's different from commercials that are designed to give you a feeling, a certain kind of feeling, as an outcome of their material.
+Art has a sublime quality which gives a chance to question our being. I have relationships with artworks, and I'm speaking broadly about art, including painting or music, literature or cinema. Each time I see the work, there's something more for me. It gives something new to me. And every time, I change a little bit by experiencing the artwork. It's different from commercials that are designed to give you a feeling, a certain kind of feeling, as an outcome of their material.
 
-Art is often times not useful. It's not meant to be used. Although many forms of art, like what I make or what my friends make, are  effective in everyday situations, sometimes blurring the distinction between design, technology and art. However, as artists, we have a right to make something that does not do stuff. This resistance to utlitarian function, that's where we create a space beyond function. It's not only about making things beautiful or expressing yourself. It's about opening a space where you can be any things, anytime, anywhere.
+Art is often times not useful. It's not meant to be used. Although many forms of art, like what I make or what my friends make, are  effective in everyday situations, sometimes blurring the distinction between design, technology and art. However, as artists, we have a right to make something that does not do stuff. This resistance to utlitarian function, that's where we create a space beyond function. It's not only about making things beautiful or expressing yourself. It's about opening a space where you can be anything, anytime, anywhere.
 
 I take art seriously, almost religiously. Without art, life would be really dull. We have been able to survive without art. There have been times when authoritarian government suppressed art, censored art.  
 
@@ -176,7 +176,7 @@ Learning is like connecting lots of sensory data and the abstracted associations
 
 # 30-31.
 
-Learning is building a habit. People learn by making a muscle memory of doing something, repetition is important, necessary.
+Learning is building a habit. People learn by making muscle memory of doing something, repetition is important, necessary.
 
 Teaching is making a habitat, an environment where one can build the habit.
 
