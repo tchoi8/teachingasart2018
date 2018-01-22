@@ -68,7 +68,7 @@ Rotating roles:
 
 In-class exercise: Create a map that illustrates how you learn something.
 
-Assignment: **Autobiography as a learner** Write a 500 word essay to accompany the map.  
+Assignment: **Autobiography as a learner**: Write a 500 word essay to accompany the map.  
 
 
 ## Week 2. Curriculum
@@ -77,7 +77,7 @@ January 29, 2018
  
 *Lecture.2 Curriculum*
 
-What is a curriculum? Artists as educators, performance art work as curriculum  
+What is a curriculum? Artists as educators, performance artwork as curriculum  
 
 - Joseph Beuys & Fluxus 
 - Judy Chicago & Feminism 
@@ -93,7 +93,7 @@ What is a curriculum? Artists as educators, performance art work as curriculum
 - Food is a curriculum
 - Art is a curriculum
  
-In class workshop, draft a curriculum for a workshop. 
+In class workshop: draft a curriculum for a workshop. 
 
 - Identifying a subject matter– What do I want to teach? learn?  
 - Big picture goals: What would the students experience and achieve?  
@@ -155,7 +155,7 @@ Special focus on disability and access for Deaf, blind and wheelchair users.
 
 March 5, 2018 
 
-Studens will present each for 10 minutes.
+Students will present each for 10 minutes
 
 and enjoy 1 week of no class. :)
 
@@ -183,7 +183,7 @@ March 26, 2018
 - [Christine Sun Kim](http://christinesunkim.com) at [Whitney](http://whitney.org/WhitneyStories/ChristineSunKim) 
 - Night School, [Museum as Hub](http://archive.newmuseum.org/index.php/Detail/Occurrence/Show/occurrence_id/951)
 
-Final assignment: Edit your syllabus for museum workshop for your partner and other participants. Rehearse your teaching for them, in person and in museum or in ITP. Create a feedback form for the participant (student) to give you feedback on your teaching. 
+Final assignment: Edit your syllabus for a museum workshop for your partner and other participants. Rehearse your teaching for them, in person and in museum or in ITP. Create a feedback form for the participant (student) to give you feedback on your teaching. 
 
 
 ## Week 9 Museum as a school 
