@@ -77,7 +77,7 @@ January 29, 2018
  
 *Lecture.2 Curriculum*
 
-What is curriculum? Artists as educators, performance art work as curriculum  
+What is a curriculum? Artists as educators, performance art work as curriculum  
 
 - Joseph Beuys & Fluxus 
 - Judy Chicago & Feminism 
