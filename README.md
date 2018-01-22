@@ -1,6 +1,6 @@
 # Teaching as Art
  
-A graduate level cuorse offered at NYU ITP in Spring 2018 
+A graduate level course offered at NYU ITP in Spring 2018 
 
 This class is for artists and creative technologists who want to teach. A good teacher is also a great student themselves. They transform their curiosity into knowledge and share their learning process with others. One can learn to become a better teacher by staying fearless about ‘not knowing’ something, embracing radically open ideas and connecting various expertise and knowledge. Teaching can be a form of artistic and creative practice in collaboration with a diverse community. Teachers can invent new forms of learning spaces, new kinds of collaboration and new sense of community.
 
@@ -11,12 +11,12 @@ In this class, students will learn about applying creative processes to teaching
 - Week 3: Syllabus
 - Week 4: Pedagogy
 - Week 5: Inclusive Learning
-- Week 6: Unlearning
-- Week 7: Platforms
-- Week 8: Museum as a school
-- Week 9: Community as a school
-- Week 10: Final project proposal
-- Week 11: Final presentation #1
+- Week 6: Mid-term presentation
+- Week 7: Unlearning 
+- Week 8: Platforms 
+- Week 9: Museum as a school
+- Week 10: Community as a school 
+- Week 11:Final project proposal
 - Week 12: Final presentation #2
 
 Full semester course based on [a class of same title](https://github.com/tchoi8/teachingasart) offered in Spring 2017  
@@ -205,9 +205,10 @@ April 2, 2018
 
 April 9, 2018
 
+
 - [Suzanne Lacy](https://suzannelacy.com) – LA & global 
 - [Conflict Kitchen](http://conflictkitchen.org/) – Pittsburgh 
-
+- The concept of care - Bernard Stiegler  
  
 
 ## Week 10 Final project proposal
