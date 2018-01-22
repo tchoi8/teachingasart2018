@@ -21,6 +21,7 @@ In this class, students will learn about applying creative processes to teaching
 
 Full semester course based on [a class of same title](https://github.com/tchoi8/teachingasart) offered in Spring 2017  
 
+The class will use a dedicated [Are.na channel](https://www.are.na/taeyoon-choi/teaching-as-art-2018) to share related materials. The class will use a private email list to communicate.  
 
 ## Letters
 
@@ -53,29 +54,30 @@ Reading assignment for next week:
 
 January 22, 2018
 
+[Lecture 1. Learner](https://tchoi8.github.io/teachingasart/lecture1.html) 
+
+Introduction of the course and the instructor's practice and Teaching philosophy. Questions about Learning.  
 
 Rotating roles: 
  
 - Teacher: Architect  
-- Facilitor: Builder  
+- Facilitator: Builder  
 - Archivist: Inspector 
 - Student: Inhabitant 
 
-Introduction of the course and the instructor's practice and Teaching philosophy. Questions about Learning. [Lecture 1. Learning](https://tchoi8.github.io/teachingasart/lecture1.html)
 
 In-class exercise: Create a map that illustrates how you learn something.
 
 Assignment: **Autobiography as a learner** Write a 500 words essay to accompany the map.  
 
 
-
 ## Week 2. Curriculum
 
 January 29, 2018 
  
-What is curriculum? Artists as educators, performance art work as curriculum  
+*Lecture.2 Curriculum*
 
-[Lecture 2. Curriculum](https://tchoi8.github.io/teachingasart/lecture2.html#/)
+What is curriculum? Artists as educators, performance art work as curriculum  
 
 - Joseph Beuys & Fluxus 
 - Judy Chicago & Feminism 
@@ -100,17 +102,15 @@ In class workshop, draft a curriculum for a workshop.
 
 Readings:  
 
-
-Leaving art writings on performance, politics, and publics, 1974-2007 by Suzanne Lacy NYU Ebrary  - In Mourning and in Rage, p 64- 71 
-
-Education for Socially Engaged Art by Pablo Helguera PDF - [Chapter 2](http://towery.lehman.edu/PhotoTopics/Photo%20Topics%20readings/Weeks34PPabloHelgueraEducationforSociallyEngagedArt.pdf), p 9 - 25 
+- Leaving art writings on performance, politics, and publics, 1974-2007 by Suzanne Lacy NYU Ebrary  - In Mourning and in Rage, p 64- 71 
+- Education for Socially Engaged Art by Pablo Helguera PDF - [Chapter 2](http://towery.lehman.edu/PhotoTopics/Photo%20Topics%20readings/Weeks34PPabloHelgueraEducationforSociallyEngagedArt.pdf), p 9 - 25 
 
 
 ## Week 3. Syllabus 
 
 February 5, 2017 
 
-[Lecture 3. Syllabus](https://tchoi8.github.io/teachingasart/lecture3.html)
+*Activity class*
 
 In class activity: School master 
 
@@ -128,25 +128,25 @@ Lecture about artists in schools, public institutions, galleries, museums, bienn
 
 
  
- 
-
 
 ## Week 4. Pedagogy 
 
 February 12, 2018
 
-[Lecture 4](https://tchoi8.github.io/teachingasart/lecture4.html#/). Pedagogy 
-
+ 
 Lecture about pedagogy, the craft of teaching. Traditional pedagogy and critical pedagogy, alternative education.  
 
-Assignment: Edit your syllabus for museum workshop for your partner and other participants. Rehearse your teaching for them, in person and in museum or in ITP. Create a feedback form for the participant (student) to give you feedback on your teaching. 
 
 
 ## Week 5  Inclusive learning  
 
 February 26, 2018
  
-Lecture about accessible and inclusive learning spaces. Makerspaces, community spaces, libraries. 
+Lecture about accessible and inclusive learning spaces, Makerspaces, community spaces, libraries.
+Special focus on disability and access for Deaf, blind and wheelchair users.  
+
+- [Sara Hendren](http://aplusa.org/)
+- [Vicky Henson](https://en.wikipedia.org/wiki/Vicki_L._Hanson) 
 - [Making Lab](https://4.apap.or.kr/en/makinglab)
 - [Poetic Science Fair](http://blog.sfpc.io/post/104936684316/poetic-science-fair-at-silent-barn)
 
@@ -155,6 +155,7 @@ Lecture about accessible and inclusive learning spaces. Makerspaces, community s
 
 March 5, 2018 
 
+Student
 
 and enjoy 1 week of no class. :)
 
@@ -166,8 +167,6 @@ March 19, 2018
 [Lecture 6](https://tchoi8.github.io/teachingasart/lecture6.html#/)
 Lecture about combining theory and practice in art and teaching, through unlearning and plasticity.  
 
-- [Sara Hendren](http://aplusa.org/)
-- [Vicky Henson](https://en.wikipedia.org/wiki/Vicki_L._Hanson) 
 - [Unlearnign disability](https://speakerdeck.com/tchoi8/unlearning-disability) 
 - [Capability and potentiality](https://tchoi8.github.io/poetic-computation-16/slides/week7#/) 
 - Judtih Butler 
@@ -183,6 +182,9 @@ March 26, 2018
 
 - [Christine Sun Kim](http://christinesunkim.com) at [Whitney](http://whitney.org/WhitneyStories/ChristineSunKim) 
 - Night School, [Museum as Hub](http://archive.newmuseum.org/index.php/Detail/Occurrence/Show/occurrence_id/951)
+
+Final assignment: Edit your syllabus for museum workshop for your partner and other participants. Rehearse your teaching for them, in person and in museum or in ITP. Create a feedback form for the participant (student) to give you feedback on your teaching. 
+
 
 ## Week 9 Museum as a school 
 
