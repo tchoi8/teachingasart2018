@@ -50,4 +50,4 @@ Without access to a classroom, an individual can attempt to simulate the ecology
 - Beunza, Daniel and Garud, Raghu. _Calculators, lemmings or frame-makers? the intermediary role of securities analysts_. The Sociological Review.
 - Hawkins, Jeff. _On Intelligence: How a New Understanding of the Brain Will Lead to the Creation of Truly Intelligent Machines_.
 - Schmidhuber, Juergen. _Driven by Compression Progress: A Simple Principle Explains Essential Aspects of Subjective Beauty, Novelty, Surprise, Interestingness, Attention, Curiosity, Creativity, Art, Science, Music, Jokes_.
-- Valiant, Leslie. _Probably Approximately Correct: Natures Algorithms for Learning and Prospering in a Complex World_.
+- Valiant, Leslie. _Probably Approximately Correct: Nature's Algorithms for Learning and Prospering in a Complex World_.
