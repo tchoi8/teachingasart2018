@@ -1,7 +1,8 @@
 ## Instructions for submitting coursework using Github. Key Github terminology/vocabulary are bolded. The ID we use for the tutorial is TaeyoonTA. You will have your own ID. 
 
 ##### Part 1: Submitting your homework
-1. We start with the **origin repository**: [tchoi8/teachingasart2018](https://github.com/tchoi8/teachingasart2018)
+1. We start with the **origin repository**: [tchoi8/teachingasart2018](https://github.com/tchoi8/teachingasart2018). You will probably want to open this link in a new window so you can follow along the steps.
+
 2. **Forking**: forking a repository allows you to make a version of your own copy. It will automatically bring in all the folders and files from the origin repository to a forked version in your acount name.
 
 ![](resources/01.png)
