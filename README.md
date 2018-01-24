@@ -72,7 +72,7 @@ In-class exercise: Create a map that illustrates how you learn something.
 
 Assignment: **Autobiography as a learner**: Write a 500 word essay to accompany the map.  
 
-How to submit your homework with a [pull request](https://docs.google.com/document/d/11bsm00rNRB2mtVp4ibYQvqneai_HIpohiQw9FV5nUFk/edit?usp=sharing).
+How to submit your homework with a [pull request](https://github.com/tchoi8/teachingasart2018/blob/master/homework-tutorial.md).
 
 Deadline: 1/28/2018. Sunday morning by 10am.
 
