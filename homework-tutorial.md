@@ -1,4 +1,10 @@
-## Instructions for submitting coursework using Github. Key Github terminology/vocabulary are bolded. The ID we use for the tutorial is TaeyoonTA. You will have your own ID. 
+
+Instructions for submitting coursework using Github. Key Github terminology/vocabulary are bolded. The User name we use for the tutorial is **[TaeyoonTA](https://github.com/TaeyoonTA).** You will have your own ID. There are two parts to the tutorial.  
+
+ 
+![](resources/visual1.png)
+
+
 
 ##### Part 1: Submitting your homework
 1. We start with the **origin repository**: [tchoi8/teachingasart2018](https://github.com/tchoi8/teachingasart2018). You will probably want to open this link in a new window so you can follow along the steps.
@@ -20,7 +26,7 @@ In the **origin repository** click "Fork" on the upper right side. You will now 
 
 ![](resources/05.png)
 
-5. Name your file "FirstName_LastName.**md**" - which will save your document as a Markdown file, meaning you can style the document with images, hyperlinks, bold and italics fonts, etc, and paste the contents.
+5. Name your file "FirstName_LastName.**md**" - which will save your document as a Markdown file, meaning you can style the document with images, hyperlinks, bold and italics fonts, etc, and paste the contents. Refer to this [cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) for details. You'll need to upload images to /img folder of each assignment folder. 
 
 ![](resources/06.png)
 
@@ -56,6 +62,9 @@ In the **origin repository** click "Fork" on the upper right side. You will now 
 ------------
 ##### Part 2: Getting the latest homework
 
+![](resources/visual2.png)
+
+
 In the pull request just demonstrated, we merged new edits from your account's repository into Taeyoon's repository, submitting your homework to his account. In this scenario, we had 'tchoi8/teachingasart2018" on the left side under **base fork** and your account "TaeyoonTA/teachingasart2018" on the right side under **head fork.**
 
 As Taeyoon adds new assignment folders for each week, we will have to perform the reverse action, merging new additions from his origin repo into your account's repo. 
@@ -78,13 +87,6 @@ Once you do this, you will see "week 2" has changed from **Open** in green text 
 If you now go into your repo you will see the folder "2_Curriculum" within your assignments folder. You have successfully added the newest homework folder into your repository. 
 
 ------------
-##### Part 3: Visual tutorial
-![](resources/visual1.png)
-
-![](resources/visual2.png)
-
-
-
 
 
 
