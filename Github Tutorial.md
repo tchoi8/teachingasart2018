@@ -76,6 +76,10 @@ Once you do this, you will see "week 2" has changed from **Open** in green text 
 
 If you now go into your repo you will see the folder "2_Curriculum" within your assignments folder. You have successfully added the newest homework folder into your repository. 
 
+------------
+##### Part 3: Visual tutorial
+![](resources/Github1.png)
+![](resources/Github2.png)
 
 
 
