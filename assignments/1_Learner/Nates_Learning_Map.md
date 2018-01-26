@@ -35,4 +35,4 @@ After writing and recording, I will try to practice what I learned by building a
 After prototyping, I either move onto another subject or follow one of the many offshoot pathways that I discovered throughout the learning process. Learning is never over, so even after prototyping, there is always more to gather about a topic. And so the learning cycle starts all over again...
 
 
-*Note: all icons were downloaded from [The Noun Project](https://thenounproject.com/) ares under a Creative Commons license*
+*Note: all icons are from [The Noun Project](https://thenounproject.com/) under a Creative Commons license*
