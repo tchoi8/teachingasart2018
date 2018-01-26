@@ -8,7 +8,7 @@ Ideation is the process of developing an idea, while learning is the development
 
 In both learning and ideation, everything starts with a source of inspiration that motivates me to dig deeper into a topic. Interest and the focus that comes with it are key factors in how long I will stick with a topic and whether I will progress onto the next step in my learning process.  Even with sustained interest, the possibility of being side tracked and taken in a different direction is always present, hence the recursive loops throughout the map. 
 
-Let’s dig into the two main component of my learning map...
+Let’s dig into the two main component of my learning map:
 
 ![Nates_Learning_Process_Inspiration.png](img/Nates_Learning_Process_Inspiration.png)
 
