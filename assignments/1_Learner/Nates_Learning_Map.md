@@ -33,3 +33,6 @@ Once I have collected a body of information on a topic, I like to write out what
 After writing and recording, I will try to practice what I learned by building a prototype or project to help reinforce it. This helps me work through my approach and reveals any gaps of understanding, which can lead to more research. As with each step before this, there is the risk that I will discover something new and interesting while prototyping, sending me down another research path, but generally I am so committed by the prototyping stage that I stick with my topic. 
 
 After prototyping, I either move onto another subject or follow one of the many offshoot pathways that I discovered throughout the learning process. Learning is never over, so even after prototyping, there is always more to gather about a topic. And so the learning cycle starts all over again...
+
+
+*Note: all icons were downloaded from [The Noun Project](https://thenounproject.com/) ares under a Creative Commons license*
