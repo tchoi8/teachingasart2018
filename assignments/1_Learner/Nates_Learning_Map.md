@@ -10,7 +10,7 @@ In both learning and ideation, everything starts with a source of inspiration th
 
 Let’s dig into the two main component of my learning map...
 
-![Nates_Learning_Process - Inspiration.png](img/Nates_Learning_Process - Inspiration.png)
+![Nates_Learning_Process_Inspiration.png](img/Nates_Learning_Process_Inspiration.png)
 
 **Inspiration**
 
@@ -18,7 +18,7 @@ Conversations with friends, peers, and people I admire are my most profound sour
 
 Other sources of inspiration include lectures or talks I’ve heard and books, articles, essays, etc. that I have read. All of these avenues of inspiration prompt questions that push me to learn more about the topic that piqued my interest. 
 
-![Nates_Learning_Process - Learning.png](img/Nates_Learning_Process - Learning.png)
+![Nates_Learning_Process_Learning.png](img/Nates_Learning_Process_Learning.png)
 
 **Learning**
 
