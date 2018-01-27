@@ -1,5 +1,4 @@
-![alt text](/LearnerAutobiography-Map.jpg "Beverly Chou Leaning Map")
-
+![alt text](https://raw.githubusercontent.com/bevchou/teachingasart2018/master/assignments/1_Learner/img/LearnerAutobiographyMap_Beverly_Chou.jpg)
 
 ## Autobiography as a learner
 
