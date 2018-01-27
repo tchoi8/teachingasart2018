@@ -8,7 +8,7 @@
 
  ---
 
-#### Learning Concepts
+### Learning Concepts
 When I am learning things that are more conceptual or based on theory, I rely more on reading and taking notes to absorb the information. When some materials are already thoroughly explained in textbooks and online resources I would rather learn through these mediums. I prefer to learn things visually rather than by listening. However, it helps to have someone explain it, for instance, through a class lecture or talking with someone who knows the material extremely well. I also try if possible, depending on the material, to view other opinions on a topic. I usually will Google about it get view other thoughts on a subject, but I'm not sure if that is a good way to approach it. Either way, I am always taking notes otherwise I will forget what I've read or heard.
 
 ### Learning Skills
