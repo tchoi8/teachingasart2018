@@ -1,4 +1,4 @@
-![](https://github.com/tchoi8/teachingasart2018/assignments/1_Learner/img/Stevie.LearningMap.jpg)
+![](https://github.com/stephaniepaige/teachingasart2018/assignments/1_Learner/img/Stevie.LearningMap.jpg)
 
 First, I feel obligated to mention that I know that my "learning map" above is inappropriately titled "Teaching Stevie" when it should be something more like "How Stevie chooses to learn based on the following circumstances". I also find it important to note that I chose to focus more on the how I get to learning rather than how I actually learn because in reality, my learning process slightly differs by subject matter. One thing that does not change is the undeniable fact that my learning style exists at an intersection of kinesthetic and reading/writing.
 
