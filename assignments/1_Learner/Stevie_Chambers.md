@@ -1,4 +1,4 @@
-![](https://github.com/tchoi8/teachingasart2018/blob/master/assignments/1_Learner/img/Stevie.LearningMap.jpg)
+![](teachingasart2018/assignments/1_Learner/img/Stevie.LearningMap.jpg)
 
 First, I feel obligated to mention that I know that my "learning map" above is inappropriately titled
 "Teaching Stevie" when it should be something more like "How Stevie chooses to learn based on the following
