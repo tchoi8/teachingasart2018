@@ -2,7 +2,7 @@ Teaching as Art						01/24/2018
 
 **How do I learn?**
 
-![caption]()
+![](img/AnIdea.jpg)
 
 
 Learning is hard! Teaching is Harder!
