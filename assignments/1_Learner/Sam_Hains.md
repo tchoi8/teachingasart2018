@@ -22,3 +22,8 @@ Once I have found the justification for continuing with this process, I am able 
 To create this sustainable learning relationship, I introduce structure and social incentive via learning communities. Shared learning experience has the ability to reinvigorate the learning process in a more sustainable fashion.
 
 It is in this collaborative, community driven mode of learning that I find my most sustainable and meaningful long-term projects.
+
+
+## Map
+
+![](/assignments/1_Learner/img/Sam_Hains_Map.jpg?raw=true)
