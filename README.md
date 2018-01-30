@@ -83,6 +83,8 @@ January 29, 2018
  
 *Lecture.2 Curriculum*
 
+[Slides](https://tchoi8.github.io/teachingasart/lecture2#/)
+
 What is a curriculum? Artists as educators, performance artwork as curriculum  
 
 - Joseph Beuys & Fluxus 
@@ -90,25 +92,15 @@ What is a curriculum? Artists as educators, performance artwork as curriculum
 - [Allan Kapprow](https://en.wikipedia.org/wiki/Allan_Kaprow) & Happening 
 - [Institut für Raumexperimente](http://raumexperimente.net/en/) – Berlin
 
-
-- [Tabari Bomani](http://creativetime.org/summit/2015/11/13/tabari-zaid-bomani/) – Brooklyn 
-- Community is a curriculum
+ - Community is a curriculum
 - Body is a curriculum 
 - Space is a curriculum
 - Street is a curriculum
 - Food is a curriculum
 - Art is a curriculum
- 
-In class workshop: draft a curriculum for a workshop. 
-
-- Identifying a subject matter– What do I want to teach? learn?  
-- Big picture goals: What would the students experience and achieve?  
-- Inspirations: Who was your favorite, most inspiring teacher? Why? 
-- Activity: 10 Minutes Professor. 
+  
 
 Readings:  
-
-- Leaving art writings on performance, politics, and publics, 1974-2007 by Suzanne Lacy NYU Ebrary  - In Mourning and in Rage, p 64- 71 
 - Education for Socially Engaged Art by Pablo Helguera PDF - [Chapter 2](http://towery.lehman.edu/PhotoTopics/Photo%20Topics%20readings/Weeks34PPabloHelgueraEducationforSociallyEngagedArt.pdf), p 9 - 25 
 
 
