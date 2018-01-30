@@ -30,7 +30,7 @@ Topics
 - Food is a curriculum
 
 
-## 1. *to race*
+## 1. What is Curriculum?
 
 - Latin (curre):  
 	-  run   
@@ -43,17 +43,66 @@ Topics
 - What the student will achieve through participating in the class? 
 - A journey's direction  
 
-**What is curriculum?**  Let’s take a moment to think about your freshman year in High school. What were the classes that were offered? What classes did you take?Write down the classes you remember.Out of the classes you can remember–perhaps it includes Math, English (or language of your country), History, Physics and etc. Choose one class you remember as the most exciting learning from the time.Take a moment to think why that class was memorable.Linearity. What were the classes that you were required to take before the classor the knowledge that you had to have in order to take this class.Articulation. How did your learning from the class feedback to your life?  
- thinking the constellation of classes are as important as an indidual class syllabus 
+**Learning outcomes and Learning objectives**  
+
+- Learning objectives are tangible deliverables, defined expectations and goals in the form of skills, assignments, tests, degree. 
+
+- Learning outcomes reflect what the learner will be able to do as a result of participating in the educational activities. It is a conceptual measure within a greater curriculum and habitat of learning. 
+
+	- Learning outcomes are an explicit transfer of knowledge and skills (obtaining skills, sowing the seeds), Learning outcomes are an implicit transformation of knowledge (harvesting for the season)
+
+**Curriculum & Studies, Dewey**  
 
 The counterpart of the isolation of mind from activities dealing with objects to accomplish ends is isolation of the subject matter to be learned. In the traditional schemes of education, subject matter means so much material to be studied. Various branches of study represent so many independent branches, each having its principles of arrangement complete within itself. History is one such group of facts; algebra another; geography another, and so on till we have run through the entire curriculum. Having a ready-made existence on their own account, their relation to mind is exhausted in what they furnish it to acquire. This idea corresponds to the conventional practice in which the program of school work, for the day, month, and successive years, consists of "studies" all marked off from one another, and each supposed to be complete by itself—for educational purposes at least. (John Dewey)
 
 
-The scheme of a curriculum must take account of the adaptation of studies to the needs of the existing community life; it must select with the intention of improving the life we live in common so that the future shall be better than the past. Moreover, the curriculum must be planned with reference to placing essentials first, and refinements second. The things which are socially most fundamental, that is, which have to do with the experiences in which the widest groups share, are the essentials. The things which represent the needs of specialized groups and technical pursuits are secondary. There is truth in the saying that education must first be human and only after that professional. But those who utter the saying frequently have in mind in the term human only a highly specialized class: the class of learned men who preserve the classic traditions of the past. They forget that material is humanized in the degree in which it connects with the common interests of men as men. Democratic society is peculiarly dependent for its maintenance upon the use in forming a course of study of criteria which are broadly human. Democracy cannot flourish where the chief influences in selecting subject matter of instruction are utilitarian ends narrowly conceived for the masses, and, for the higher education of the few, the traditions of a specialized cultivated class. The notion that the "essentials" of elementary education are the three R's mechanically treated, is based upon ignorance of the essentials needed for realization of democratic ideals. Unconsciously it assumes that these ideals are unrealizable; it assumes that in the future, as in the past, getting a livelihood, "making a living," must signify for most men and women doing things which are not significant, freely chosen, and ennobling to those who do them; doing things which serve ends unrecognized by those engaged in them, carried on under the direction of others for the sake of pecuniary reward. For preparation of large numbers for a life of this sort, and only for this purpose, are mechanical efficiency in reading, writing, spelling and figuring, together with attainment of a certain amount of muscular dexterity, "essentials." Such conditions also infect the education called liberal, with illiberality. They imply a somewhat parasitic cultivation bought at the expense of not having the enlightenment and discipline which come from concern with the deepest problems of common humanity. A curriculum which acknowledges the social responsibilities of education must present situations where problems are relevant to the problems of living together, and where observation and information are calculated to develop social insight and interest. 
+The scheme of a curriculum must take account of the adaptation of studies to the needs of the existing community life; it must select with the intention of improving the life we live in common so that the future shall be better than the past. Moreover, the curriculum must be planned with reference to placing essentials first, and refinements second. The things which are socially most fundamental, that is, which have to do with the experiences in which the widest groups share, are the essentials. The things which represent the needs of specialized groups and technical pursuits are secondary. There is truth in the saying that education must first be human and only after that professional. But those who utter the saying frequently have in mind in the term human only a highly specialized class: the class of learned men who preserve the classic traditions of the past. They forget that material is humanized in the degree in which it connects with the common interests of men as men. Democratic society is peculiarly dependent for its maintenance upon the use in forming a course of study of criteria which are broadly human. Democracy cannot flourish where the chief influences in selecting subject matter of instruction are utilitarian ends narrowly conceived for the masses, and, for the higher education of the few, the traditions of a specialized cultivated class. The notion that the "essentials" of elementary education are the three R's mechanically treated, is based upon ignorance of the essentials needed for realization of democratic ideals. Unconsciously it assumes that these ideals are unrealizable; it assumes that in the future, as in the past, getting a livelihood, "making a living," must signify for most men and women doing things which are not significant, freely chosen, and ennobling to those who do them; doing things which serve ends unrecognized by those engaged in them, carried on under the direction of others for the sake of pecuniary reward. For preparation of large numbers for a life of this sort, and only for this purpose, are mechanical efficiency in reading, writing, spelling and figuring, together with attainment of a certain amount of muscular dexterity, "essentials." Such conditions also infect the education called liberal, with illiberality. They imply a somewhat parasitic cultivation bought at the expense of not having the enlightenment and discipline which come from concern with the deepest problems of common humanity. *A curriculum which acknowledges the social responsibilities of education must present situations where problems are relevant to the problems of living together, and where observation and information are calculated to develop social insight and interest.*
+ 
+## 2. Architecture as Metaphor - Kojin Karatani 
 
-## 2. Curriculum as an art practice 
+
+**Tree & Semilattice**  
+
+- The natural city and the artificial city - the tree & the semilattice
+
+	- A semilattice form forms when two or more units overlap, and the overlapping area it itself a recognizable entity and hence a unit as well. 
+
+- Berkeley street corner demonstrates the semilattice structure of a natural city: "When these three elements are combined they begin to function differently. Through human use these emsembles form a unit of the city"
+
+*"The city derives its coherence as a unit both from the forces which hold its own elements together, and from the dynamic coherence of the larger living system.*
+
+Semilattice structure as a learning habitat - takes into account the human interactions, the informal modes of learning, the extra-curricular, the overlaps. 
+
+**Semilattice & Tree in Learning** 
+
+- The tree represents stratified forms of knowledge; lessons, tests, skills, formal courses, the tangible deliverables. 
+
+- The semilattice represents a learning habitat; takes into account the informal ways of learning and the extra-curricular. 
+
+A curriculum contains both a formal system system and an informal system, the tree + the the semilattice
+
+- Architecture which, guided through its blueprints, allows for the interactions of the living space of the environment. 
+
+- Habitat of learning exists between the formal architecture of schools and the living space of life. 
+  
+## 3. In Class Activity   
+
+Reflecting on the curriculums we have participated in and our habitats of learning, identifying the connections, disconnects and gaps in our curricular structure. 
+
+Ask students: 
+1. Recall back to your sophomore year in High School.
+2. What were the classes you took?
+3. Write down these classes and think about the ways in which they related to one another, focusing on the curriculum. 
+4. What were the learning outcomes and learning objectives of this curriculum at large? 
+5. Was the curriculum experience more similar to the tree structure or the semilattice? Why and in what ways?
+6. Did this curriculum form a part of a larger habitat of learning? Why or why not? 
+
+
+## 4. Curriculum as an art practice 
 
 Artists as educators, performance art work as curriculum  
+
+[ **Performing Participation Slideshow** ](https://speakerdeck.com/tchoi8/performing-participations-number-4)
 
 - Joseph Beuys & Fluxus 
 - Judy Chicago & Feminism 
@@ -71,17 +120,7 @@ Artists as educators, performance art work as curriculum
 
 
 
-##3. Tree – Semilattice   
-
-
-- Communicating why a student will want to learn about it- hardest partcoming into common understanding of the lesson plan - Difficulty of workshop - or open enrollment is that students come from different backgrounds, with different skills sets, they may not have the common language.
-- Architecture as Metaphor, Language, Number and Money, Kojin Karatani 
-- "The teaching position is not authoritarian, but is the weaker of the two because it is subordinated to someone else's acquisition of knowledge. - Assymetrical, buyer- seller relationship.
-
-
-
-## 4. The meaning of community 
-
+## 5. The Meaning of Community
 - The finitude, the visible limit of a program, duration of a project 
 - Liberation from permanence, temporality as essentially a community 
 - things that are traditionally considered 'extra-curricular' 
