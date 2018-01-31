@@ -100,9 +100,16 @@ What is a curriculum? Artists as educators, performance artwork as curriculum
 - Art is a curriculum
   
 
-Readings:  
-- Education for Socially Engaged Art by Pablo Helguera PDF - [Chapter 2](http://towery.lehman.edu/PhotoTopics/Photo%20Topics%20readings/Weeks34PPabloHelgueraEducationforSociallyEngagedArt.pdf), p 9 - 25 
+Required readings:  
 
+- Kojin Karatani.  Architecture as Metaphor, Language, Number and Money. 1965 Chapter 4 Natural City. Page 29 on the book.  
+- Pablo Helguera. Education for Socially Engaged Art - Chapter 2 Community, p 9 - 17  
+
+Homework: 
+
+Design a curriculum for your young self, High School sophomore.
+
+500 words/ 2 images 
 
 ## Week 3. Syllabus 
 
