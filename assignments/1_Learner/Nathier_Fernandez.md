@@ -1,5 +1,6 @@
 HOW DO I LEARN?
 
+![](img/Nathier_learning_map.jpg)
 
 
 As a child, I often suffered as I guess many other did with school exams. I panicked (which I still kinda do) and usually
@@ -34,5 +35,6 @@ With time the Copia transform itself and move into my notebooks, this is how I t
 features are incorporated. I took pictures, screenshots, make videos, send pieces of code to my email for safekeeping and
 safe links, articles and images for future use.
 
+![](img/Nathier_notebook_copia.jpg)
 
 
