@@ -8,3 +8,11 @@ The nature of a good education curriculum nurtures a student and encourage stude
 -![](teachingasart2018/assignments/2_Curriculum/img/secondweek-01.jpg)
 +![](https://github.com/dwantilus/teachingasart2018/blob/master/assignments/2_Curriculum/img/secondweek-01.jpg)
 
+
+
+
+
+-![](teachingasart2018/blob/master/assignments/2_Curriculum/img/secondweek-02.jpg)
++![](https://github.com/dwantilus/teachingasart2018/blob/master/assignments/2_Curriculum/img/secondweek-02.jpg)
+
+
