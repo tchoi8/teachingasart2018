@@ -1,5 +1,7 @@
 My Learning Process: Memorization vs. Application 	
 
+![alt text](https://github.com/jps723/teachingasart2018/blob/master/assignments/1_Learner/img/jsLearningMap.jpeg "jsLearningMap")
+
 My learning process has evolved over the years as have my areas of study.  Where I used to study for tests in my preliminary schoolings, studying for retained knowledge has reshaped the way that I approach learning.  The biggest aide for me throughout the journey of better understanding my own strengths and limitations has been patience when I struggle to understand something as quickly as I think I should. 
 
 As children we are taught for the sake of advancement.  Learning enough to prove that the concepts in question can be regurgitated at a single snapshot in time; and then we are expected to know them going forward. Memorization, word association and flashcards dominated my early years for test preparation, presentations, etc.  These skills are invaluable for displaying content, but not necessarily utilizing it.  I still often employ these same techniques, however, as I’ve matured and moved toward more impassioned disciplines, it has been important to adjust.
