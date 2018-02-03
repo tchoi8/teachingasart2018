@@ -1,6 +1,6 @@
 For context, I went to public school in Missouri. I found this list of graduation requirements on my high school's website. I remember this piece of paper very well. I don't remember having to take classes on Practical Arts, but everything else looks the same.
 
-![](imgs/zc1.jpg)
+![](img/zc1.jpg)
 
 It is important to note that graduation requirements are not a curriculum, but I like this approach toward a more liberal arts curriculum. I'm interpreting liberal arts rather broadly and in a high school context (arts, math, sciences, etc, but also health, physical education), and I would like to include modern adaptations, such as computational thinking as well as diversity & inclusion.
 
@@ -12,4 +12,4 @@ Learning Objective: To facilitate students in the process of self-discovery and 
 
 Learning Outcome: Students will be exposed to a wide range of intellectual topics, both as general requirements and through self-chosen elective, and will have a deeper understanding of areas of inquiry they would like to pursue in their final two years of high school. Additionally, students will have strengthened communication skills through networked and experiential learning.
 
-![](imgs/zc2.jpg)
+![](img/zc2.jpg)
