@@ -16,7 +16,6 @@ Learning Outcome
 To develop a conscious well-rounded  individual in the self, community and global domains giving them a sense of identity, making connections by immersing in sensory experiences and finding purpose in life and personal experiences. 
 
 
-
 -![](teachingasart2018/blob/master/assignments/2_Curriculum/img/secondweek-02.jpg)
 +![](https://github.com/dwantilus/teachingasart2018/blob/master/assignments/2_Curriculum/img/secondweek-02.jpg)
 
