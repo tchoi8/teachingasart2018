@@ -1,0 +1,17 @@
+My Learning Process: Memorization vs. Application 	
+
+![alt text](https://github.com/jps723/teachingasart2018/blob/master/assignments/1_Learner/img/jsLearningMap.jpeg "jsLearningMap")
+
+My learning process has evolved over the years as have my areas of study.  Where I used to study for tests in my preliminary schoolings, studying for retained knowledge has reshaped the way that I approach learning.  The biggest aide for me throughout the journey of better understanding my own strengths and limitations has been patience when I struggle to understand something as quickly as I think I should. 
+
+As children we are taught for the sake of advancement.  Learning enough to prove that the concepts in question can be regurgitated at a single snapshot in time; and then we are expected to know them going forward. Memorization, word association and flashcards dominated my early years for test preparation, presentations, etc.  These skills are invaluable for displaying content, but not necessarily utilizing it.  I still often employ these same techniques, however, as I’ve matured and moved toward more impassioned disciplines, it has been important to adjust.
+
+In my adult life, I have taken on various ‘new’ subjects that I had not studied in my formative years as a child/young adult.  I’ve studied music technology, coding and the Italian language, for example, with the same core underlying principles in my approach for all of them.  The biggest mistake for me has always been in moving forward prior to understanding the content at hand.  I’ve been guilty of this in every subject I’ve approached and so while trying to best explain how I learn, I think it is equally as important to understand how I don’t learn.  
+
+I prefer learning by doing with added structure to ensure understanding.  Even if I am hesitant to admit it, I am a slow learner, and often struggle without the help of others as I reach more complicated material.  I learn best when I can approach new material on my own, utilize it and fail, and then ask questions; repeating even the simplest of exercises until they are second nature.  
+
+The act of taking notes and writing down both what I understand, and what I am trying to learn, is a powerful tool that helps me break down topics into digestible pieces in my own words.  Using these concepts in real world scenarios (I.e. coding a tool that I will actually use, reading the news in Italian, etc.) adds to my drive to continue.  
+
+It is reassuring to discuss. Using my own language to convey my areas of confusion (or understanding) is imperative as textbook definitions are often daunting and serve as roadblocks toward the end goal.  I learn best in layman’s terms.  It is easier for me to relate things to something I already know and understand well, as opposed to tracing them back through technical definition.  Seeing and working through examples that use basic terms is always a faster way toward truly understanding.  Stitching together the grammatical nuances and rules often stands in my way and I can become easily frustrated with minute and unimportant details, and unable to adequately explain my questions.  
+
+As with anything, repetition builds comfort.  The hands-on approach works best for me and until I have make my own mistakes, I don’t feel that I own the material.  I am resourceful enough to study on my own, but often require guidance from others to put things into perspective and help resolve any mental roadblocks.
