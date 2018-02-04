@@ -1,3 +1,4 @@
+
 **Background**
 
 My high school experience was highly structured and goal-oriented. The school reinforced dominant doctrines with regard to gender, sexuality and culture. In many ways it was a toxic, patriarchal environment. I was categorized as a 'logical type' and was not encouraged to express myself or think creatively.
@@ -35,13 +36,16 @@ There will be no discrete classrooms, instead an open space with freedom of move
 
 _Open plan classroom, Learning Exchange NSW_
 
-The curriculum is delivered through a composeable virtual space that is developed and maintained by students and teachers. Each area of study is a virtual community with an initial state and function of a wiki. The wiki will contain the preliminary features to assist with teaching. This might include anything from planned social engagement to reading lists to rules for participating in a financial system simulation.
+The curriculum is delivered through a composeable virtual space that is developed and maintained by students and teachers. Each area of study is a virtual community with an function of something comparable to a wiki. It will also contain the preliminary tools and syllabus for teaching. This might include:
+* plans for digital/actual social engagement
+* diverse reading lists
+* instructions for participation a financial system simulation
 
-Unlike a standard Wiki, the structure, rules and concept of these virtual spaces have the potential to be radically overhauled through collaborative intervention by students and teachers. Some will be more active in exploring the possibilities of this evolving environment and others will benefit from more structure.  The space will come to represent the nature of the shared knowledge that has been developed.
+The structure, rules and concept of these virtual spaces have the potential to be radically overhauled through collaborative intervention by students and teachers. The space will come to represent the nature of the shared knowledge that has been developed.
 
 Teachers provide constant feedback and guidance throughout this process, providing adjustments to each student as required.
 
-In order to encourage the development of the learning environment, school internet is controlled and social networks such as Facebook are blocked. Students will incorporate methods of virtual encounter and collaboration into the fabric of the community system themselves.
+In order to encourage the development of the learning environment, school internet is controlled and social networks such as Facebook are blocked. Students will suggest and contribute to methods of virtual encounter and communication in the community system.
 
 ![](https://image.ibb.co/mHifpR/20180131_201326.jpg)
-_A map of interconnected knowedge_
+_A map of interconnected knowedge in curriculum_
