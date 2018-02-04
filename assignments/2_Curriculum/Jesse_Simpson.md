@@ -8,7 +8,7 @@ In designing a curriculum for my 10th grade self, I’ve thought about how I cou
 
 I agree that the subjects mandated by the state are important however I think additional attention should be paid toward self-awareness and interest building.  My curriculum offers similar subjects to traditional schooling, however making sense of the studies as a whole through an additional class to assist in synthesizing the curriculum as a whole.  While this assignment focuses on 10th grade alone, the benefits of such a structure will be more visible throughout the entire course of a high school career.  Each subject will operate in silo to focus on academics, with individualized commentary at the synthesis level ed by academic advisors from those areas.  A place where students are grouped with like-minded classmates to discuss, acclimate, and belong.  This discussion time will replace one subject as decided by the student and his/her advisor to allow for a more individualized and weighted course load.  Those more interested in a particular subject will meet with others in that domain for more advanced exploration, and for troubleshooting difficulties elsewhere.  
 
-![alt text](https://github.com/jps723/teachingasart2018/blob/master/assignments/2_Curriculum/Curriculum_Synthesis_Structure.jpeg "Logo Title Text 1")
+![alt text](https://github.com/jps723/teachingasart2018/blob/master/assignments/2_Curriculum/img/Curriculum_Synthesis_Structure.jpeg "Logo Title Text 1")
 
 **Curriculum Objective**
 
@@ -18,5 +18,5 @@ Students will learn base geometry, biology, american literature, foreign languag
 
 Students will obtain specialized knowledge in their particular passions while improving well roundedness through comfortable discussion..  As a result, students will be better equipped for advanced study in later years.
 
-![alt text](https://github.com/jps723/teachingasart2018/blob/master/assignments/2_Curriculum/Curriculum_Synthesis_Cartoon.jpeg "Logo Title Text 1")
+![alt text](https://github.com/jps723/teachingasart2018/blob/master/assignments/2_Curriculum/img/Curriculum_Synthesis_Cartoon.jpeg "Logo Title Text 1")
 
