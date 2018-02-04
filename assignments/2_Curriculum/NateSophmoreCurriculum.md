@@ -2,10 +2,11 @@ I can’t say that I look back on high school with fondness. Socially it was int
 
 If I were given the keys to the kingdom and could have designed a curriculum for my 10th grade self, I would have taken a much more multidisciplinary approach that focused on collaborative projects and hands-on learning than the pure lecture format that I was subjected to in my teens. I have found that I learn best through doing, so a strong emphasis on doing and ability to apply concepts would be core to the learning process.
 
-##Teaching Philosophy
+##Teaching Philosophy##
+
 The goal of this curriculum is to instill a love of learning in our students. To accomplish this, we employ play, collaboration, and external context to all of our subjects. Our faculty pay close attention to the performance of our students, helping guide them to subjects that best suit their individual skill sets and interests. As an institution, we aim to produce, curious, resilient, adaptable, and creative citizens. 
 
-##Curriculum Structure
+##Curriculum Structure##
 
 ![Subjects](/img/NateSubjects.png)
 
@@ -19,8 +20,10 @@ Classes are a hybrid of lecture, labs, and discussions, with project-based assig
 
 ![Curriculum_Focus](/img/NateCurriculumFocus.png)
 
-##Learning Objectives
+##Learning Objectives##
+
 Students will graduate with a strong foundational knowledge of key concepts in the humanities, sciences, and social science, as well as practical skills that aid in life outside of the classroom. Our objective is to ensure our students have plenty of options after graduation: they can go on to university if they want to, or can go directly into the workforce. Students will be well suited to continue their learning at university, or go to work as artists or professionals with one of our many industry partners. 
 
-##Learning Outcomes
+##Learning Outcomes##
+
 Students graduate with an appreciation for the interconnectedness of their studies, thirst for independent learning, and ability to work well independently and collaborate with peers, faculty, and members of industry. Our curriculum cultivates cross functional, perpetual learners with a wide portfolio of work by the time they graduate and a keen ability to collaborate with others on projects. 
