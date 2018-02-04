@@ -7,11 +7,11 @@ My high school days was a bitter-sweet experience that is still etched in my min
 
 The nature of a good education curriculum nurtures a student and encourage students towards achieving global literacy and awareness. With my given history in education, it lacked lustre and was too academic stringent. I am interested in exploring experimental education that fosters technical skills without compromising academic excellence and at the same time giving the students global presence and technology advancement. The curriculum would also allow opportunities to collaborate with one another from time to time to heighten the community spirit. 
 
-Learning Objective
+**Learning Objective
 
 Creating a full immersive education experience using tools that make students a global learner.
 
-Learning Outcome
+**Learning Outcome
 
 To develop a conscious well-rounded  individual in the self, community and global domains giving them a sense of identity, making connections by immersing in sensory experiences and finding purpose in life and personal experiences. 
 
