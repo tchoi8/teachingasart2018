@@ -35,7 +35,7 @@ There will be no discrete classrooms, instead an open space with freedom of move
 
 _Open plan classroom, Learning Exchange NSW_
 
-The curriculum is delivered through a compose-able virtual space that is developed and maintained by students and teachers. Each area of study is a virtual community with an initial state and function of a wiki. The wiki will contain the preliminary features to assist with teaching. This might include anything from planned social engagement to reading lists to rules for participating in a financial system simulation.
+The curriculum is delivered through a composeable virtual space that is developed and maintained by students and teachers. Each area of study is a virtual community with an initial state and function of a wiki. The wiki will contain the preliminary features to assist with teaching. This might include anything from planned social engagement to reading lists to rules for participating in a financial system simulation.
 
 Unlike a standard Wiki, the structure, rules and concept of these virtual spaces have the potential to be radically overhauled through collaborative intervention by students and teachers. Some will be more active in exploring the possibilities of this evolving environment and others will benefit from more structure.  The space will come to represent the nature of the shared knowledge that has been developed.
 
