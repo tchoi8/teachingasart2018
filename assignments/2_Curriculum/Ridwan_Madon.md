@@ -20,3 +20,4 @@ To develop a conscious well-rounded  individual in the self, community and globa
 +![](https://github.com/dwantilus/teachingasart2018/blob/master/assignments/2_Curriculum/img/secondweek-02.jpg)
 
 
+
