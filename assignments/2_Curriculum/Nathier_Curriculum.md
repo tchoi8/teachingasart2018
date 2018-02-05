@@ -1,6 +1,7 @@
  Curriculum
 
 ART / MATH / SCIENCE / SOCIAL SCIENCE / LANGUAGE/ SPORTS
+![](img/nathiercurriculum.jpg)
 
 
 
@@ -49,6 +50,9 @@ given by the instructor; One project proposed by the student a final
 project. Final projects can be hybrids, meaning the can merge as final
 with other 
 courses.
+
+![](img/riverecosytem.JPG)
+
 
 
 The river ecosystem: "The following unifying characteristics make the
