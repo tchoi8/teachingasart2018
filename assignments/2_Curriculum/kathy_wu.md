@@ -1,5 +1,7 @@
 
 I’m thinking back and trying to remember who I was as a 10th grader. At that age, you’re not quite an adult; you’re still trying on new environments. A lot of the most impactful stuff is about your identity in relation to the whole.
+![](https://github.com/kathymakes/teachingasart2018/blob/master/assignments/2_Curriculum/kathy_wu_1.jpg)
+
 
 ## on being part of a whole
 Once in college, I took a neuroscience class, where our professor designed a midterm exam so that everybody got a single, collective grade.
@@ -15,7 +17,7 @@ For instance, subjects in science challenge your trust in knowledge. How do you 
 What can knowing these things accomplish? What power do they give you?
 I think this is the ultimate discovery. 
 
-[](https://github.com/kathymakes/teachingasart2018/blob/master/assignments/2_Curriculum/kathy_wu_1.jpg)
+￼![](https://github.com/kathymakes/teachingasart2018/blob/master/assignments/2_Curriculum/kathy_wu_2.jpg)
 
 
 ## days in the new 10th grade curriculum
@@ -30,7 +32,6 @@ A day where you and your peers make your own museum, textbook, guided tour; tell
 
 A day where you are colonizing a new planet together. It looks just like Earth, but without humans. What do you want to keep? What do you leave behind?
 
-￼[](https://github.com/kathymakes/teachingasart2018/blob/master/assignments/2_Curriculum/kathy_wu_1.jpg)
 
 ## philosophies
 
