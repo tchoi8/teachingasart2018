@@ -83,6 +83,8 @@ January 29, 2018
  
 *Lecture.2 Curriculum*
 
+[Slides](https://tchoi8.github.io/teachingasart/lecture2#/)
+
 What is a curriculum? Artists as educators, performance artwork as curriculum  
 
 - Joseph Beuys & Fluxus 
@@ -90,48 +92,50 @@ What is a curriculum? Artists as educators, performance artwork as curriculum
 - [Allan Kapprow](https://en.wikipedia.org/wiki/Allan_Kaprow) & Happening 
 - [Institut für Raumexperimente](http://raumexperimente.net/en/) – Berlin
 
-
-- [Tabari Bomani](http://creativetime.org/summit/2015/11/13/tabari-zaid-bomani/) – Brooklyn 
-- Community is a curriculum
+ - Community is a curriculum
 - Body is a curriculum 
 - Space is a curriculum
 - Street is a curriculum
 - Food is a curriculum
 - Art is a curriculum
- 
-In class workshop: draft a curriculum for a workshop. 
+  
 
-- Identifying a subject matter– What do I want to teach? learn?  
-- Big picture goals: What would the students experience and achieve?  
-- Inspirations: Who was your favorite, most inspiring teacher? Why? 
-- Activity: 10 Minutes Professor. 
+Required readings:  
 
-Readings:  
+- Kojin Karatani.  Architecture as Metaphor, Language, Number and Money. 1965 Chapter 4 Natural City. Page 29 on the book.  
+- Pablo Helguera. Education for Socially Engaged Art - Chapter 2 Community, p 9 - 17  
 
-- Leaving art writings on performance, politics, and publics, 1974-2007 by Suzanne Lacy NYU Ebrary  - In Mourning and in Rage, p 64- 71 
-- Education for Socially Engaged Art by Pablo Helguera PDF - [Chapter 2](http://towery.lehman.edu/PhotoTopics/Photo%20Topics%20readings/Weeks34PPabloHelgueraEducationforSociallyEngagedArt.pdf), p 9 - 25 
+Homework: 
 
+Design a curriculum for your young self, High School sophomore.
+
+500 words/ 2 images 
 
 ## Week 3. Syllabus 
 
 February 5, 2017 
 
-*Activity class*
 
-In class activity: School master 
+Team:
 
-[Assignment](https://github.com/tchoi8/teachingasart/tree/master/assignments/2_curriculum) was to create a curriculum, for yourself as a sophomore in high school. 
+- Jesse - Michael
+- Andrew - Ridwan
+- Nate - Stevie
+- Sam - Zach
+- Kathy - Oren
+- Nathier - Beverly  
 
-Each student will pair up with another student. They will introduce their curriculum (assignment)to each other. 10 minutes each. 
+Agenda
 
-As a presentation for the whole class, the students will present their curriculum from the perspective of a teacher (or a schoolmaster). The partner will give feedback from the perspective of a student in the school. and vice versa.
-it will be like role playing. 
+1. Review of the [assignments](https://github.com/tchoi8/teachingasart/tree/master/assignments/2_curriculum): create a curriculum, for yourself as a sophomore in high school. Follow the [review worksheet](https://github.com/tchoi8/teachingasart2018/blob/master/lectures/CurriculumWorksheet.md).
+2. Lecture on Syllabus 
+3. In class activity: [Syllabus worksheet](https://github.com/tchoi8/teachingasart2018/blob/master/lectures/SyllabusWorksheet.md)  
+4. Lecture on Art work as syllabus
 
-
-Lecture about artists in schools, public institutions, galleries, museums, biennales 
-
+Next week: Presentation of your syllabus 
+As a presentation for the whole class, you will present your syllabus from the perspective of a teacher (or a schoolmaster). Your partner will give feedback from the perspective of a student in the school. and vice versa. It will be like role playing. 
+ 
 - Pablog Helguera, [Education for Socially Engaged Art](http://pablohelguera.net/2011/11/education-for-socially-engaged-art-2011/) (2011) 
-
 
  
 
