@@ -47,12 +47,12 @@ Learners would create a bi-weekly open flea market that would allow them to make
 **Nature**
 Observing the different terrains and landscapes in nature. Using natural materials and found objects to explore relations with the subject. 
 
-**Eg Physical Education / Geography**
+**Eg: Physical Education / Geography**
 Learners will have a bi-weekly run/jog in the natural terrain. While there, students are encourage to observe the terrain and discuss about their observations in class. 
 
 **Technology & Traditions**
 Exploring established approaches towards experiments. 
 
-**Eg Mathematics / Science**
+**Eg: Mathematics / Science**
 Experimenting, questioning and exploring the definition of science through labs and findings locally and globally (exchange of ideas with students from other schools)
 
