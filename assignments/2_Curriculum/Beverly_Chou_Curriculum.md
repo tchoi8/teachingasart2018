@@ -3,10 +3,10 @@ Looking back on my sophomore year of high school, the thing that strikes me is h
 
 In designing my own curriculum for myself, I wasn't sure if it was better to allow for a disjointed, but diverse curriculum that would let students explore many things, thereby helping them decide what they like or dislike. Thinking further, I think that high school education should do more than guide your career path. I would create connections between the course topics to accomplish the following:
 
-Learning Objective:
+**Learning Objective:**
 Expose students to basic subjects of math, science, art, english, foreign language, and social studies to develop their critical thinking, connect their learnings to real world, and guide their future career interests. Students will collaborate and teach each other to advance their learning and develop their leadership and teamwork skills.
 
-Learning Outcome:
+**Learning Outcome:**
 Students will be able to take their knowledge from different subjects and apply them in new ways. Students will also learn how to search for resources to facilitate their own self learning. Students will gain an understanding of the importance of learning.
 
 Essentially students will be able to choose whatever classes they want as long as the fulfill the following requirements.
@@ -23,9 +23,9 @@ Each year students must take classes tagged with each of these subjects:
 * Elective
 
 Students will need make sure at least one of each tag is included in their class selections:
-* Connected: must be taken with another class, for instance a nature-centric art class and a botany/biology class
-* Community: students will engage with people in the local community as a part of learning
-* Internal Community: students will engage with fellow students as a apart of learning
+* **Connected:** must be taken with another class, for instance a nature-centric art class and a botany/biology class
+* **Community:** students will engage with people in the local community as a part of learning
+* **Internal Community:** students will engage with fellow students as a apart of learning
 
 ![alt text](https://raw.githubusercontent.com/bevchou/teachingasart2018/master/assignments/2_Curriculum/img/beverly_chou_class_connections.jpg)
 
