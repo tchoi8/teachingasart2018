@@ -11,6 +11,8 @@ Students will be able to take their knowledge from different subjects and apply 
 
 Essentially students will be able to choose whatever classes they want as long as the fulfill the following requirements.
 
+![alt-text](https://raw.githubusercontent.com/bevchou/teachingasart2018/master/assignments/2_Curriculum/img/beverly_chou_sample_classes.jpg)
+
 Each year students must take classes tagged with each of these subjects:
 * Math
 * Science
@@ -24,5 +26,7 @@ Students will need make sure at least one of each tag is included in their class
 * Connected: must be taken with another class, for instance a nature-centric art class and a botany/biology class
 * Community: students will engage with people in the local community as a part of learning
 * Internal Community: students will engage with fellow students as a apart of learning
+
+![alt text](https://raw.githubusercontent.com/bevchou/teachingasart2018/master/assignments/2_Curriculum/img/beverly_chou_class_connections.jpg)
 
 My goal with the latter two categories is to help students develop a sense of self awareness and awareness of others. I would want students to be able to engage with each other and community members during school hours to reinforce the idea that we can still learn from people who are designated as teachers!
