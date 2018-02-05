@@ -13,10 +13,10 @@ Schools want you to be well-rounded, because some broader institutional standard
 For instance, subjects in science challenge your trust in knowledge. How do you know anything is true, which you cannot directly perceive?
 
 What can knowing these things accomplish? What power do they give you?
-I think this is the ultimate discovery.
+I think this is the ultimate discovery. 
 
-￼
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+[](https://github.com/kathymakes/teachingasart2018/blob/master/assignments/2_Curriculum/kathy_wu_1.jpg)
+
 
 ## days in the new 10th grade curriculum
 
@@ -30,8 +30,7 @@ A day where you and your peers make your own museum, textbook, guided tour; tell
 
 A day where you are colonizing a new planet together. It looks just like Earth, but without humans. What do you want to keep? What do you leave behind?
 
-￼
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+￼[](https://github.com/kathymakes/teachingasart2018/blob/master/assignments/2_Curriculum/kathy_wu_1.jpg)
 
 ## philosophies
 
