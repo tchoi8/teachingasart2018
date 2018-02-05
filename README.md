@@ -115,22 +115,27 @@ Design a curriculum for your young self, High School sophomore.
 
 February 5, 2017 
 
-*Activity class*
 
-In class activity: School master 
+Team:
 
-[Assignment](https://github.com/tchoi8/teachingasart/tree/master/assignments/2_curriculum) was to create a curriculum, for yourself as a sophomore in high school. 
+- Jesse - Michael
+- Andrew - Ridwan
+- Nate - Stevie
+- Sam - Zach
+- Kathy - Oren
+- Nathier - Beverly  
 
-Each student will pair up with another student. They will introduce their curriculum (assignment)to each other. 10 minutes each. 
+Agenda
 
-As a presentation for the whole class, the students will present their curriculum from the perspective of a teacher (or a schoolmaster). The partner will give feedback from the perspective of a student in the school. and vice versa.
-it will be like role playing. 
+1. Review of the [assignments](https://github.com/tchoi8/teachingasart/tree/master/assignments/2_curriculum): create a curriculum, for yourself as a sophomore in high school. Follow the [review worksheet](https://github.com/tchoi8/teachingasart2018/blob/master/lectures/CurriculumWorksheet.md).
+2. Lecture on Syllabus 
+3. In class activity: [Syllabus worksheet](https://github.com/tchoi8/teachingasart2018/blob/master/lectures/SyllabusWorksheet.md)  
+4. Lecture on Art work as syllabus
 
-
-Lecture about artists in schools, public institutions, galleries, museums, biennales 
-
+Next week: Presentation of your syllabus 
+As a presentation for the whole class, you will present your syllabus from the perspective of a teacher (or a schoolmaster). Your partner will give feedback from the perspective of a student in the school. and vice versa. It will be like role playing. 
+ 
 - Pablog Helguera, [Education for Socially Engaged Art](http://pablohelguera.net/2011/11/education-for-socially-engaged-art-2011/) (2011) 
-
 
  
 
