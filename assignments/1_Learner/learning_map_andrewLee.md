@@ -1,53 +1,35 @@
-# Learning as a hierarchy of compressions
+# Learning by doing and writing
 
 ![map](./img/learningMap_andrewLee.svg)
 
-Learning is a series of hierarchal compressions. Inputs come from the world through the senses and build toward high-level abstractions through a series of compressions that take the output of the previous levels as outputs.
+[My feelings about how my (mostly) unconscious learning mechanism works.](https://www.vndrewlee.com/posts/teaching_as_art/01_learning_map/)
 
-## Compressing inputs
+I use learning for things that are too complicated to easily be specified. If something can be specified easily, I usually store it outside my brain.
 
-Each layer takes a handful of input objects at a time, tries out different configurations, looking for configurations where the inputs compress into a class object. The compressed object is then handed up to the next level of abstraction.
+Learning requires many attempts at compression and experimenting with conceptual configuration.
 
-The lowest level takes inputs from the senses.
+## Acquiring a target
 
-Before handing up a compressed object, the quality of compression is considered. The encapsulated output can be described as having material properties. A capsule's properties can be determined by testing the object against example inputs.
+Since I focus my learning effort on things that cannot be easily specified, deciding on a target is the first task at hand when trying to learn something.
 
-Ideally, a capsule should be dense, hard, flexible. Such materials are resilient to erosion from the constant stream of objects and allow for similarly strong high-level capsules.
+Using a tangible project as a target is what works best for me as a measure of learning. For example, people often ask each other if they "know something", eg "Do you know Python?". This is a very difficult question to answer head on, but is more easily answered by describing what I can capable of doing with Python, eg "I can make a web app with Python".
 
-## Hierarchy and Recursion
+Always in parallel to (and sometimes as a substitute for), a project, I also attempt to create an analytical frame to encapsulate the material I am ingesting in order to learn. I also continually, consciously test fit the framework into my broader base of knowledge.
 
-Generally, each layer takes inputs from the lower level. Occasionally, higher-level abstractions might be brought down to a lower level to assist in a type of recursive compression. Similarly, low-level inputs might be brought up several levels to test compression quality.
+My goal for the project is to create something that meets my personal criteria for quality. My goal for my framework is maximum compression, transferability, and fit with my broader knowledge graph.
 
-## Mistakes and Unlearning
+## Defining projects
 
-Errors are detected when a capsule fails on new examples.
+I always start off with the minimum demonstrable project, eg a `hello world!` type tutorial. After that, I try to either pick progressively more complex demonstration to recreate or pick a project that can start simple and expand in complexity that matches that I want to learn.
 
-Often, errors are not detected until a fairly high-level. In such cases, refactoring is required by working down the compression chain. The difficulty of unlearning depends on the graph complexity of the dependancies.
+It's very difficult to find project that expand in complexity that matches my trajectory, so I usually only pick those if they're recommended by a source I trust.
 
-In the worst case, unlearning can get stuck when following the compression chain down to a concept for which is there no alternative compression scheme and there are many other chains depending on that seed. Then, the learner is forced to either:
+## Writing as both student and teacher
 
-- continue building on the same compression chain, while knowing there is a fundamental issue with their knowledge base
-- attempt to build a hanging thread that they hope to incorporate someday in the future
+Certain subjects are difficult to demonstrate with a project, so the analytic frame alone must suffice.
 
-## Ecologies for accelerating learning
+I write a document explaining the framework to test the framework for maximum compression and transferability. This could be an essay, a presentation deck, or visual media.
 
-Environments that accelerate learning have the following properties:
+This forces me to think as both teacher and learner. Since I am actively compressing information into the framework and thinking about whether it makes sense / is transferable to someone else.
 
-- allow for quick iterative failures / attempts
-- provide a clear target to aim towards
-- proving a diverse range of approaches to accommodate for preexisting bases of knowledge   
-
-The most common educational ecology is with two classes, teachers and students. The teachers are trying to learn the optimal input sequences that enable students to learn with speed and quality. The students are focused on learning by synthesizing inputs from the teacher with their pre-existing knowledge graph.
-
-Teachers also spend effort attempting to trigger the necessary unlearning in some students to make leaps to higher level learning.
-
-### Teaching yourself
-
-Without access to a classroom, an individual can attempt to simulate the ecology by themselves. They then have two tasks to manage, learning a suitable sequence of inputs to reach the high-level object they are attempting to target, while also doing the compression learning work.
-
-## Sources
-
-- Beunza, Daniel and Garud, Raghu. _Calculators, lemmings or frame-makers? the intermediary role of securities analysts_. The Sociological Review.
-- Hawkins, Jeff. _On Intelligence: How a New Understanding of the Brain Will Lead to the Creation of Truly Intelligent Machines_.
-- Schmidhuber, Juergen. _Driven by Compression Progress: A Simple Principle Explains Essential Aspects of Subjective Beauty, Novelty, Surprise, Interestingness, Attention, Curiosity, Creativity, Art, Science, Music, Jokes_.
-- Valiant, Leslie. _Probably Approximately Correct: Nature's Algorithms for Learning and Prospering in a Complex World_.
+Shorting, editing, and reducing complexity of the document provides a measure of compression progress. Reader and learner feedback provides transferability feedback.

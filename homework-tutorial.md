@@ -46,7 +46,7 @@ Choose your files
 ![](resources/21.png)
 Commit changes to save
 
-   Once you have uploaded your images into the img folder you will then be able to reference their path in the markdown file      editor. The syntax is an exclamation point [image title] (image path). You can choose to leave the brackets blank, like [].    The image path will look something like **"! [] (assignments/1_Learner/Filename.png)"** but without spaces. 
+   Once you have uploaded your images into the img folder you will then be able to reference their path in the markdown file editor. The syntax is an exclamation point [image title] (image path). You can choose to leave the brackets blank, like [].    The image path will look something like ! [] (img/filenamge.jpg) but without spaces.  
 
 
 7. Once you have completed editing your homework, scroll to the bottom to **commit** the file. In Github, committing is like saving. Again, make sure to save the document as a **.md** file. You want to be committing directly to the master branch **not** starting a new branch. 
