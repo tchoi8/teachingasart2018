@@ -7,8 +7,7 @@ The classes I remembered most had a real emotional impact on me, whether it was 
 
 For me, high school emphasized the individual’s performance over the collective. There was an anxious energy of comparing, being evaluated… and for many, that evaluation becomes their identity. (“I’m not a math person…”)
 
-[](https://github.com/kathymakes/teachingasart2018/blob/master/assignments/2_Curriculum/kathy_wu_2.jpg)
-
+![](https://github.com/tchoi8/teachingasart2018/blob/master/assignments/2_Curriculum/kathy_wu_1.jpg)
 
 ## towards collective success
 
@@ -19,8 +18,8 @@ Once in college, I took a neuroscience class, where our professor designed a mid
 In that one hour, the class dynamic was amazing; everybody became a teacher and a student; there was a collective sense of responsibility towards one another, where people pulled each other up, and didn’t want to let one another down.
 
 Another time I can think of: this past summer, volunteering in rural Cambodia, where everyday, the volunteers would clean the common space, cook food for each other, wash the dishes. We lived with farm animals, collected rainwater to survive. I felt a real sense of accountability to the people around me; there was mutual care and struggle.
-￼
-[](https://github.com/kathymakes/teachingasart2018/blob/master/assignments/2_Curriculum/kathy_wu_1.jpg)
+
+![](https://github.com/tchoi8/teachingasart2018/blob/master/assignments/2_Curriculum/kathy_wu_2.jpg)
 
 ## learning outcomes:
 
