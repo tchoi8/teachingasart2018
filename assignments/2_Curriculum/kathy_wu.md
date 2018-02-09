@@ -21,7 +21,7 @@ Another time I can think of: this past summer, volunteering in rural Cambodia, w
 
 ![](https://github.com/kathymakes/teachingasart2018/blob/master/assignments/2_Curriculum/img/kathy_wu_1.jpg)
 
-## learning outcomes:
+## learning outcomes
 
 Students understand that they exist as part of a broader whole.
 * students observe how your species relates to its various biomes
@@ -53,9 +53,10 @@ There is a class on teaching; ways to mentor and lift younger students up in a g
 
 There is a class on art and computation, where you learn to draw, make films, and use current tools in a structured environment.
 
+
 ## an idealistic spirit, grounded in making
 
-At times, students feel as if they are colonizing a new planet together. It looks just like Earth, but without humans. What do you want to keep? What do you leave behind?
+_At times, students feel as if they are colonizing a new planet together. It looks just like Earth, but without humans. What do you want to keep? What do you leave behind?_
 
 
 
