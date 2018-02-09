@@ -1,4 +1,4 @@
-Full post here: https://pondermake.tumblr.com/post/170585983429/a-new-curriculum
+External blog link: https://pondermake.tumblr.com/post/170585983429/a-new-curriculum
 
 ## reflections on 10th grade
 I’m thinking back and trying to remember who I was as a 10th grader. Anxious, shy, thoughtful. Like other 10th graders, still learning how I relate to the whole. 
@@ -15,7 +15,10 @@ For me, high school emphasized the individual’s performance over the collectiv
 I wonder what it would take for the majority of people to feel intrinsically motivated to lift each other up. 
 
 Once in college, I took a neuroscience class, where our professor designed a midterm exam so that everybody got a single, collective grade.
+
 In that one hour, the class dynamic was amazing; everybody became a teacher and a student; there was a collective sense of responsibility towards one another, where people pulled each other up, and didn’t want to let one another down.
+
+Another time I can think of: this past summer, volunteering in rural Cambodia, where everyday, the volunteers would clean the common space, cook food for each other, wash the dishes. We lived with farm animals, collected rainwater to survive. I felt a real sense of accountability to the people around me; there was mutual care and struggle.
 ￼
 [](https://github.com/kathymakes/teachingasart2018/blob/master/assignments/2_Curriculum/kathy_wu_1.jpg)
 
