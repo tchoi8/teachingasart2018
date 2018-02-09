@@ -100,30 +100,62 @@ What is a curriculum? Artists as educators, performance artwork as curriculum
 - Art is a curriculum
   
 
-Readings:  
-- Education for Socially Engaged Art by Pablo Helguera PDF - [Chapter 2](http://towery.lehman.edu/PhotoTopics/Photo%20Topics%20readings/Weeks34PPabloHelgueraEducationforSociallyEngagedArt.pdf), p 9 - 25 
+Required readings:  
 
+- Kojin Karatani.  Architecture as Metaphor, Language, Number and Money. 1965 Chapter 4 Natural City. Page 29 on the book.  
+- Pablo Helguera. Education for Socially Engaged Art - Chapter 2 Community, p 9 - 17  
+
+Homework: 
+
+Design a curriculum for your young self, High School sophomore.
+
+500 words/ 2 images 
 
 ## Week 3. Syllabus 
 
 February 5, 2017 
 
-*Activity class*
 
-In class activity: School master 
+[Slides](tchoi8.github.io/teachingasart/lecture3)
 
-[Assignment](https://github.com/tchoi8/teachingasart/tree/master/assignments/2_curriculum) was to create a curriculum, for yourself as a sophomore in high school. 
+Team:
 
-Each student will pair up with another student. They will introduce their curriculum (assignment)to each other. 10 minutes each. 
+- Jesse - Michael
+- Andrew - Ridwan
+- Nate - Stevie
+- Sam - Zach
+- Kathy - Oren
+- Nathier - Beverly  
 
-As a presentation for the whole class, the students will present their curriculum from the perspective of a teacher (or a schoolmaster). The partner will give feedback from the perspective of a student in the school. and vice versa.
-it will be like role playing. 
+Agenda
 
+1. Review of the [assignments](https://github.com/tchoi8/teachingasart/tree/master/assignments/2_curriculum): create a curriculum, for yourself as a sophomore in high school. Follow the [review worksheet](https://github.com/tchoi8/teachingasart2018/blob/master/lectures/CurriculumWorksheet.md).
+2. Lecture on Syllabus 
+3. In class activity: [Syllabus worksheet](https://github.com/tchoi8/teachingasart2018/blob/master/lectures/SyllabusWorksheet.md)  
+4. Lecture on Art work as syllabus
 
-Lecture about artists in schools, public institutions, galleries, museums, biennales 
+Next week: Presentation of your syllabus 
+As a presentation for the whole class, you will present your syllabus from the perspective of a teacher (or a schoolmaster). Your partner will give feedback from the perspective of a student in the school. and vice versa. It will be like role playing. 
 
+## This week's homework assignment ##
+
+- Design a syllabus for a class in 'your high school.' Contextualize the class within the curriculum you designed. Focus on the learning outcomes (tangible takeaways) while thinking about the learning objectives. You can also update your curriculum from last week.
+- The syllabus needs to include a class title, description, and schedule. Please follow the [syllabus worksheet](https://github.com/tchoi8/teachingasart2018/blob/master/lectures/SyllabusWorksheet.md)
+- 500 words & 1 image
+- Follow the file naming convention of firstname_last_name.md
+- Please submit by 2.11 - Sunday 10am.
+- In class next week we will return to our same partners and you will present your syllabus from the perspective of a teacher (or a schoolmaster.) Your partner will give feedback from the perspective of a student and vice versa. After, in partner-pairs, you will discuss your syllabus for the whole class.
+
+As you know, we’ve been thinking of a classroom as a form of community - and community spaces as a form of classrooms. The [assigned reading](http://towery.lehman.edu/PhotoTopics/Photo%20Topics%20readings/Weeks34PPabloHelgueraEducationforSociallyEngagedArt.pdf) from last week asks us to think about the goals of socially engaged art. **Please come to class prepared to discuss the following prompt:** What is the goal of your syllabus, especially if you’re considering the class as a community?  
+
+For future classes, we will move our discussions more towards artists and artworks as educators. As an introduction to some of the artists we will be talking about please read/watch:
+- [Who is Joseph Beuys?](https://www.youtube.com/watch?time_continue=36&v=e7pIGGcIoLk)
+- [National Galleries Joseph Beuys Learning Resource](https://www.nationalgalleries.org/art-and-artists/features/joseph-beuys-learning-resource)
+- [Lygia Clark - Breath with Me at MoMA Studios](https://www.youtube.com/watch?v=XG2qmCYQ7Ps)
+- [NYTimes review of Lygia Clark's show at MoMA](https://www.nytimes.com/2014/05/16/arts/design/lygia-clarks-many-twists-and-turns-at-moma.html)
+
+ 
 - Pablog Helguera, [Education for Socially Engaged Art](http://pablohelguera.net/2011/11/education-for-socially-engaged-art-2011/) (2011) 
-
 
  
 
