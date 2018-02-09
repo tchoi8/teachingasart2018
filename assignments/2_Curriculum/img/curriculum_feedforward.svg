@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="667px" height="375px" viewBox="0 0 667 375" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="background: #FFFFFF;">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>taper</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="taper">
+            <g id="Group">
+                <rect id="Rectangle" fill="#D8D8D8" x="0" y="0" width="214" height="375"></rect>
+                <circle id="Oval-Copy-3" fill="#000000" cx="149" cy="35" r="15"></circle>
+                <circle id="Oval-Copy-4" fill="#000000" cx="149" cy="89" r="15"></circle>
+                <circle id="Oval-Copy-5" fill="#000000" cx="149" cy="143" r="15"></circle>
+                <circle id="Oval-Copy-6" fill="#000000" cx="149" cy="304" r="15"></circle>
+                <circle id="Oval-Copy-7" fill="#000000" cx="149" cy="250" r="15"></circle>
+                <circle id="Oval-Copy-8" fill="#000000" cx="149" cy="196" r="15"></circle>
+                <text id="Instruction" font-family="HelveticaNeue, Helvetica Neue" font-size="24" font-weight="normal" fill="#000000">
+                    <tspan x="92.324" y="355">Instruction</tspan>
+                </text>
+                <text id="language" font-family="HelveticaNeue, Helvetica Neue" font-size="18" font-weight="normal" fill="#000000">
+                    <tspan x="47.163" y="95">language</tspan>
+                </text>
+                <text id="art" font-family="HelveticaNeue, Helvetica Neue" font-size="18" font-weight="normal" fill="#000000">
+                    <tspan x="99.335" y="41">art</tspan>
+                </text>
+                <text id="social-studies" font-family="HelveticaNeue, Helvetica Neue" font-size="18" font-weight="normal" fill="#000000">
+                    <tspan x="11.163" y="148">social studies</tspan>
+                </text>
+                <text id="science" font-family="HelveticaNeue, Helvetica Neue" font-size="18" font-weight="normal" fill="#000000">
+                    <tspan x="59.166" y="202">science</tspan>
+                </text>
+                <text id="math" font-family="HelveticaNeue, Helvetica Neue" font-size="18" font-weight="normal" fill="#000000">
+                    <tspan x="80.151" y="256">math</tspan>
+                </text>
+                <text id="computation" font-family="HelveticaNeue, Helvetica Neue" font-size="18" font-weight="normal" fill="#000000">
+                    <tspan x="19.312" y="310">computation</tspan>
+                </text>
+            </g>
+            <g id="Group-Copy" transform="translate(214.000000, 0.000000)">
+                <rect id="Rectangle" x="0" y="0" width="130" height="375"></rect>
+                <circle id="Oval-Copy-4" fill="#000000" cx="65" cy="89" r="15"></circle>
+                <circle id="Oval-Copy-7" fill="#000000" cx="65" cy="250" r="15"></circle>
+                <circle id="Oval-Copy-8" fill="#000000" cx="65" cy="196" r="15"></circle>
+                <text id="Projects" font-family="HelveticaNeue, Helvetica Neue" font-size="24" font-weight="normal" fill="#000000">
+                    <tspan x="21.224" y="355">Projects</tspan>
+                </text>
+            </g>
+            <g id="Group-Copy-2" transform="translate(343.000000, 0.000000)">
+                <rect id="Rectangle" fill="#D8D8D8" x="0" y="0" width="130" height="375"></rect>
+                <circle id="Oval-Copy-3" fill="#000000" cx="65" cy="35" r="15"></circle>
+                <circle id="Oval-Copy-4" fill="#000000" cx="65" cy="89" r="15"></circle>
+                <circle id="Oval-Copy-5" fill="#000000" cx="65" cy="143" r="15"></circle>
+                <circle id="Oval-Copy-6" fill="#000000" cx="65" cy="304" r="15"></circle>
+                <circle id="Oval-Copy-7" fill="#000000" cx="65" cy="250" r="15"></circle>
+                <circle id="Oval-Copy-8" fill="#000000" cx="65" cy="196" r="15"></circle>
+                <text id="Instruction" font-family="HelveticaNeue, Helvetica Neue" font-size="24" font-weight="normal" fill="#000000">
+                    <tspan x="8.324" y="355">Instruction</tspan>
+                </text>
+            </g>
+            <g id="Group-Copy-3" transform="translate(473.000000, 0.000000)">
+                <rect id="Rectangle" x="0" y="0" width="130" height="375"></rect>
+                <circle id="Oval-Copy-5" fill="#000000" cx="65" cy="143" r="15"></circle>
+                <circle id="Oval-Copy-7" fill="#000000" cx="65" cy="250" r="15"></circle>
+                <circle id="Oval-Copy-8" fill="#000000" cx="65" cy="196" r="15"></circle>
+                <text id="Projects" font-family="HelveticaNeue, Helvetica Neue" font-size="24" font-weight="normal" fill="#000000">
+                    <tspan x="21.224" y="355">Projects</tspan>
+                </text>
+            </g>
+            <g id="Group-Copy-4" transform="translate(603.000000, 0.000000)">
+                <rect id="Rectangle" fill="#D8D8D8" x="0" y="0" width="130" height="375"></rect>
+                <circle id="Oval-Copy-3" fill="#000000" cx="65" cy="35" r="15"></circle>
+                <circle id="Oval-Copy-4" fill="#000000" cx="65" cy="89" r="15"></circle>
+                <circle id="Oval-Copy-5" fill="#000000" cx="65" cy="143" r="15"></circle>
+                <circle id="Oval-Copy-6" fill="#000000" cx="65" cy="304" r="15"></circle>
+                <circle id="Oval-Copy-7" fill="#000000" cx="65" cy="250" r="15"></circle>
+                <circle id="Oval-Copy-8" fill="#000000" cx="65" cy="196" r="15"></circle>
+                <text id="Instruction" font-family="HelveticaNeue, Helvetica Neue" font-size="24" font-weight="normal" fill="#000000">
+                    <tspan x="8.324" y="355">Instruction</tspan>
+                </text>
+            </g>
+            <path d="M148.5,33.5 L279.5,252.5" id="Line" stroke="#000000" stroke-linecap="square" stroke-dasharray="3,2"></path>
+            <path d="M147.5,249.5 L280.5,249.5" id="Line-2" stroke="#000000" stroke-linecap="square" stroke-dasharray="3,2"></path>
+            <path d="M147.5,89.5 L277.5,89.5" id="Line-3" stroke="#000000" stroke-linecap="square" stroke-dasharray="3,2"></path>
+            <path d="M151.5,141.5 L280.5,89.5" id="Line-4" stroke="#000000" stroke-linecap="square" stroke-dasharray="3,2"></path>
+            <path d="M148.5,196.5 L277.5,196.5" id="Line-5" stroke="#000000" stroke-linecap="square" stroke-dasharray="3,2"></path>
+            <path d="M149.5,305.5 L280.5,193.5" id="Line-6" stroke="#000000" stroke-linecap="square" stroke-dasharray="3,2"></path>
+            <path d="M282.5,89.5 L407.5,89.5" id="Line-7" stroke="#000000" stroke-linecap="square" stroke-dasharray="3,2"></path>
+            <path d="M279.5,88.5 L409.5,142.5" id="Line-8" stroke="#000000" stroke-linecap="square" stroke-dasharray="3,2"></path>
+            <path d="M282.5,193.5 L410.5,193.5" id="Line-9" stroke="#000000" stroke-linecap="square" stroke-dasharray="3,2"></path>
+            <path d="M278.5,195.5 L408.5,306.5" id="Line-10" stroke="#000000" stroke-linecap="square" stroke-dasharray="3,2"></path>
+            <path d="M279.5,249.5 L407.5,249.5" id="Line-11" stroke="#000000" stroke-linecap="square" stroke-dasharray="3,2"></path>
+            <path d="M279.5,248.5 L404.5,32.5" id="Line-12" stroke="#000000" stroke-linecap="square" stroke-dasharray="3,2"></path>
+            <path d="M408.5,194.5 L539.5,194.5" id="Line-13" stroke="#000000" stroke-linecap="square" stroke-dasharray="3,2"></path>
+            <path d="M407.5,250.5 L542.5,194.5" id="Line-14" stroke="#000000" stroke-linecap="square" stroke-dasharray="3,2"></path>
+            <path d="M413.5,307.5 L542.5,193.5" id="Line-15" stroke="#000000" stroke-linecap="square" stroke-dasharray="3,2"></path>
+            <path d="M408.5,33.5 L540.5,193.5" id="Line-16" stroke="#000000" stroke-linecap="square" stroke-dasharray="3,2"></path>
+            <path d="M410.5,88.5 L537.5,142.5" id="Line-17" stroke="#000000" stroke-linecap="square" stroke-dasharray="3,2"></path>
+            <path d="M409.5,305.5 L539.5,141.5" id="Line-18" stroke="#000000" stroke-linecap="square" stroke-dasharray="3,2"></path>
+            <path d="M405.5,142.5 L538.5,248.5" id="Line-19" stroke="#000000" stroke-linecap="square" stroke-dasharray="3,2"></path>
+            <path d="M406.5,194.5 L537.5,249.5" id="Line-20" stroke="#000000" stroke-linecap="square" stroke-dasharray="3,2"></path>
+            <path d="M539.5,140.5 L670.5,87.5" id="Line-21" stroke="#000000" stroke-linecap="square" stroke-dasharray="3,2"></path>
+            <path d="M537.5,140.5 L670.5,307.5" id="Line-22" stroke="#000000" stroke-linecap="square" stroke-dasharray="3,2"></path>
+            <path d="M541.5,193.5 L668.5,32.5" id="Line-23" stroke="#000000" stroke-linecap="square" stroke-dasharray="3,2"></path>
+            <path d="M541.5,195.5 L666.5,195.5" id="Line-24" stroke="#000000" stroke-linecap="square" stroke-dasharray="3,2"></path>
+            <path d="M542.5,195.5 L667.5,251.5" id="Line-25" stroke="#000000" stroke-linecap="square" stroke-dasharray="3,2"></path>
+            <path d="M542.5,196.5 L669.5,307.5" id="Line-26" stroke="#000000" stroke-linecap="square" stroke-dasharray="3,2"></path>
+            <path d="M537.5,248.5 L670.5,140.5" id="Line-27" stroke="#000000" stroke-linecap="square" stroke-dasharray="3,2"></path>
+            <path d="M542.5,249.5 L674.5,195.5" id="Line-28" stroke="#000000" stroke-linecap="square" stroke-dasharray="3,2"></path>
+        </g>
+    </g>
+</svg>
