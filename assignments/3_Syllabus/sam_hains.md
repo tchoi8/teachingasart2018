@@ -1,4 +1,4 @@
-### Virtual Community
+## Virtual Community
 
 ### Course Description:
 
