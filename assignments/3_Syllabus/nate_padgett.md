@@ -1,8 +1,8 @@
 ![Lake-Berryessa](https://github.com/NatePadgett/teachingasart2018/blob/master/assignments/3_Syllabus/img/Lake_Berryessa_Spillway(from_natgeo).jpg)
 
-#Don’t Take This Class for Granted
+# Don’t Take This Class for Granted
 
-##Synopsis 
+## Synopsis 
 
 In this course, students will explore the systems and history of things they encounter every day. From water to the origins of the weekend, we will spend 6 weeks exploring what most people take for granted. 
 
@@ -10,13 +10,13 @@ After completing this class, students will have a deeper appreciation for and un
 
 Most classes will begin with a discussion of the previous week’s theme and homework, followed by a lecture and discussion. We’ll save the remaining time in class for discussing the homework assignment that will be due the following week. 
 
-##Assignments 
+## Assignments 
 
 Students will be assigned weekly readings and videos and must post a 500 word reflection on each week’s topic with at least three questions for discussion in the following week’s class. Reflections and questions must be posted by 12pm on Sunday. 
 
 The class will have one midterm and one final assignment. For the midterm, students will write a 5,000 word essay about a research topic they will be assigned on the first day of class. For their final projects, students will research and prepare 7 minute presentations on a research topic of their choosing.   
 
-##Schedule:
+## Schedule:
 
 **Week 1: Water**
 The early role of water in human civilization
