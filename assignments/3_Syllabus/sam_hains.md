@@ -1,4 +1,4 @@
-#### Course Description:
+### Course Description:
 
 Technological advancements have us creating new worlds faster than we can keep track of them. This course will introduce students to the process of critically engaging with these new worlds and their implications. Through philosophy, performance and social engagement students will consider the problems and creative possibilities of our real, virtual and online communities.
 
