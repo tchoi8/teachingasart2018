@@ -26,7 +26,7 @@ Homework: Analyse your experience, what are the rules of this space? Who is incl
 ![](https://i.ytimg.com/vi/-kp6eAhFEcg/maxresdefault.jpg)
 
 #### Week 4
-Session 07: Digital Identity - Selfies, memes and diverse narratives. How has the internet changed and diversified our ideas about identity and beauty? We will consider the work of instagram activists Monroe Bergdof and Roscoe Ramone and Meme artist @scariest_bug_ever.<br/>
+Session 07: Digital Identity - Selfies, memes and diverse narratives. How has the internet changed and diversified our ideas about identity and beauty? We will consider the work of instagram activists [Monroe Bergdof](https://www.instagram.com/munroebergdorf/?hl=en) and [Roscoe Ramone](https://www.instagram.com/roscoeramone) and Meme artist [@scariest_bug_ever](https://www.instagram.com/scariest_bug_ever/?hl=en).<br/>
 Session 08: Performance art, Fluxus, political art.<br/>
 Homework: Stage and document a performance in virtual space.
 
