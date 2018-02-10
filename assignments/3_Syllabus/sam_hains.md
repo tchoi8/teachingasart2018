@@ -15,7 +15,7 @@ Session 02: Introduction to Deleuze's conception of the virtual, the real and th
 
 #### Week 2:
 Session 03: Field Trip - How might 'virtual experience' exist in physical space? [Dialogue in the Dark](http://www.dialogue-in-the-dark.com/).<br/>
-Session 04: Reality as social construction. Community as assemblage of people. We will consider how ideas and systems can be broken down into other ideas and yet maintain their significance as a whole. We will pay close attention to how this applies to notions of community in rural, urban and online contexts. <br/>
+Session 04: Reality as social construction. Community as assemblage of people. Drawing from Deleuze notion of 'Assemblage Theory' we will consider how ideas and systems can be broken down and yet maintain their significance as a whole. We will pay close attention to how this applies to notions of community in rural, urban and online contexts. <br/>
 Homework:  Field trip report
 
 ### Module 2:  Virtual Spaces
