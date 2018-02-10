@@ -7,7 +7,9 @@ Technological advancements have us creating new worlds faster than we can keep t
 
 #### Week 1
 Session 01:  Introduction to Metaphysics. Plato's Cave. Realism and Idealism.<br/>
-Session 02: Introduction to Deleuze's conception of the virtual, the real and the actual. “The virtual is opposed not to the real but to the actual. The virtual is fully real.." (_Difference and Repetition_, Deleuze, 1968)
+Session 02: Introduction to Deleuze's conception of the virtual, the real and the actual.<br/>
+
+“The virtual is opposed not to the real but to the actual. The virtual is fully real.." (_Difference and Repetition_, Deleuze, 1968)
 
 #### Week 2:
 Session 03: Reality as a social construction. Drawing from Deleuze's 'Assemblage Theory' we will consider how ideas and systems can be broken down into other ideas and yet maintain their significance as a whole. This will lead us to a discussion about the idea of emergence and scientific reductionism.<br/>
