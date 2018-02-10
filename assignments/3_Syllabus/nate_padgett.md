@@ -26,8 +26,9 @@ The class will have one midterm and one final assignment. For the midterm, stude
 * Water as a commodity
 * Water crisis
 
-* Midterm topic assignments
-* Setting up a blog
+Midterm topic assignments
+
+Setting up a blog
 
 Homework: 
 1. Water readings
@@ -88,13 +89,13 @@ Readings:
 #### Week 4: Money
 Midterm discussion (15 minutes) 
 
+Announce your final project idea (30 seconds each)
+
 * US Treasury
 * History of currency
 * Debit and credit
 * Cryptocurrency and blockchain
 * Alternatives
-
-* Announce your final project idea (30 seconds each)
 
 Homework: 
 1. Money and plastics readings
