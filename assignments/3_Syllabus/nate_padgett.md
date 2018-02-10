@@ -2,8 +2,6 @@
 
 # Don’t Take This Class for Granted
 
-
-
 ## Synopsis 
 
 In this course, students will explore the systems and history of things they encounter every day. From water to the origins of the weekend, we will spend 6 weeks exploring what most people take for granted. 
@@ -33,7 +31,7 @@ Setting up a blog
 Homework: 
 1. Water readings
 2. 500 word reflection on water 
-3. 3 questions for next week’s class discussion
+3. Three questions for next week’s class discussion
 
 Readings:
 * [What It’s Like to Live Through Cape Town’s Massive Water Crisis](http://time.com/cape-town-south-africa-water-crisis/)
@@ -55,7 +53,7 @@ The future of sanitation
 Homework: 
 1. Sanitation readings
 2. 500 word reflection on sanitation 
-3. 3 questions for next week’s class discussion
+3. Three questions for next week’s class discussion
 
 Readings:
 * [A Right to Be Clean: Sanitation and the Rise of New York City’s Water Towers](https://blogs.scientificamerican.com/anthropology-in-practice/a-right-to-be-clean-sanitation-and-the-rise-of-new-york-citys-water-towers/)
@@ -100,8 +98,8 @@ Alternatives
 
 Homework: 
 1. Money and plastics readings
-2. 2x 250 word reflections on plastic and money, respectively
-3. 4 questions on plastic and money for next week’s class discussion
+2. Two 250 word reflections on plastic and money, respectively
+3. Four questions on plastic and money for next week’s class discussion
 4. Work on your final
 
 Readings:
