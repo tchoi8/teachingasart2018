@@ -1,7 +1,7 @@
 # Don’t Take This Class for Granted
 
 ![Lake-Berryessa](https://github.com/NatePadgett/teachingasart2018/blob/master/assignments/3_Syllabus/img/Lake_Berryessa_Spillway(from_natgeo).jpg)
-
+*Image courtesy of National Geographic*
 
 ## Synopsis 
 
