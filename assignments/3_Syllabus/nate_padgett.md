@@ -19,12 +19,12 @@ The class will have one midterm and one final assignment. For the midterm, stude
 
 ## Schedule:
 
-**Week 1: Water**
-...The early role of water in human civilization
-...Irrigation and plumbing
-Dams and spillways
-Water as a commodity
-Water crisis
+### Week 1: Water
+* The early role of water in human civilization
+* Irrigation and plumbing
+* Dams and spillways
+* Water as a commodity
+* Water crisis
 
 Midterm topic assignments
 Setting up a blog
@@ -41,15 +41,14 @@ Readings:
 * [Drinking Water: A History (video)](https://www.c-span.org/video/?318386-13/drinking-water-history)
 * [The History of Drinking Water Treatment](https://nepis.epa.gov/Exe/ZyPDF.cgi/P1002SMN.PDF?Dockey=P1002SMN.PDF)
 
-**Week 2: Sanitation**
-Water discussion (15 minutes)
-
-Life before sanitation
-Disease and pests
-Ancient sewers and waste disposal
-Key advancements in sanitation and what they mean for us
-Modern sanitation
-The future of sanitation
+#### Week 2: Sanitation
+* Water discussion (15 minutes)
+* Life before sanitation
+* Disease and pests
+* Ancient sewers and waste disposal
+* Key advancements in sanitation and what they mean for us
+* Modern sanitation
+* The future of sanitation
 
 Homework: 
 1. Sanitation readings
@@ -64,15 +63,14 @@ Readings:
 *[Global WASH Facts](https://www.cdc.gov/healthywater/global/wash_statistics.html)
 
 
-**Week 3: Plastic + Midterm**
-Sanitation discussion (15 minutes)
+#### Week 3: Plastic + Midterm
+* Sanitation discussion (15 minutes)
 
-Invention of Plastic
-Plastic’s many uses
-Plastic today
-Plastic and pollution
-Plastic and health
-New plastics
+* Invention of Plastic
+* Plastic’s many uses
+* Plastic today
+* Plastic and pollution
+* New plastics
 
 Homework: 
 1. Write a 5,000 word essay about your assigned topic. Post your essay on your class blog by 9pm on Sunday. 
@@ -86,16 +84,15 @@ Readings:
 * [The Obscure History - And Future - of the Plastic Bag](https://www.bloomberg.com/news/articles/2018-02-08/the-obscure-history-and-future-of-the-plastic-bag)
 * [A Brief History of Plastic’s Conquest of the World](https://www.scientificamerican.com/article/a-brief-history-of-plastic-world-conquest/)
 
-**Week 4: Money**
-Midterm discussion (15 minutes) 
-Announce your final project idea (30 seconds each)
+#### Week 4: Money
+* Midterm discussion (15 minutes) 
+* Announce your final project idea (30 seconds each)
 
-US Treasury
-Currency
-Early currency
-Debit and credit
-Cryptocurrency and blockchain
-Alternatives
+* US Treasury
+* History of currency
+* Debit and credit
+* Cryptocurrency and blockchain
+* Alternatives
 
 Homework: 
 1. Money and plastics readings
@@ -110,16 +107,16 @@ Readings:
 * [How the $1.2 Trillion Debt Crisis is Crippling Students, Parents, and the Economy](https://www.forbes.com/sites/specialfeatures/2013/08/07/how-the-college-debt-is-crippling-students-parents-and-the-economy/#3a54b40f2e17)
 * [The Economics of Cyptocurrency - Bitcoin and Beyond](https://www.chapman.edu/research/institutes-and-centers/economic-science-institute/_files/ifree-papers-and-photos/koeppel-april2017.pdf)
 
-**Week 5: Weekends**
-Plastics discussion (10 min)
-Money discussion (10 min)
+#### Week 5: Weekends
+* Plastics discussion (10 min)
+* Money discussion (10 min)
 
-The work week
-Pre-industrial work
-The industrial revolution
-Labor movement
-Decline of unions
-Future of work
+* The work week
+* Pre-industrial work
+* The industrial revolution
+* Labor movement
+* Decline of unions
+* Future of work
 
 Homework: 
 1. Readings
@@ -132,5 +129,5 @@ Readings: (choose three)
 * [A Brief History of the Labor Movement](https://www.npr.org/templates/story/story.php?storyId=5758863)
 * [The Future of Work (video)](https://www.technologyreview.com/video/609446/the-future-of-work/)
 
-**Week 6: Final**
+#### Week 6: Final
 You will have 7 minutes to present your project to your class. Have a powerpoint or some other presentation. Bonus for handouts!
