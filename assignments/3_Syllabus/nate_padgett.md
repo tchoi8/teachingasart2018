@@ -20,8 +20,8 @@ The class will have one midterm and one final assignment. For the midterm, stude
 ## Schedule:
 
 **Week 1: Water**
-The early role of water in human civilization
-Irrigation and plumbing
+...The early role of water in human civilization
+...Irrigation and plumbing
 Dams and spillways
 Water as a commodity
 Water crisis
