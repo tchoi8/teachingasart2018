@@ -5,28 +5,29 @@
 
 ## Synopsis 
 
-In this course, students will explore the systems and history of things they encounter every day. From water to the origins of the weekend, we will spend 6 weeks exploring what most people take for granted. 
+In this cross-disciplinary course touching on all three of our academic verticals, students will explore systems they encounter every day. From water to the origins of the weekend, we will spend 6 weeks exploring what most people take for granted. 
 
-After completing this class, students will have a deeper appreciation for and understanding of key systems that drive our world. Students will develop intellectual tools for challenging conventional wisdom and thinking critically about these systems. We will also learn how to set up and maintain a blog for submitting homework assignments and preparing for weekly-in class discussions. 
+After completing this class, students will have a deeper appreciation for and understanding of key systems that impact their daily lives. Students will develop intellectual tools for challenging conventional wisdom and thinking critically about these systems. We will also learn how to user an online tool called GitHub for submitting homework assignments and preparing for weekly-in class discussions. GitHub is a website primarily used for sharing and working on creative, personal, and professional computer coding projects. It is also a great document management tool that is a pre-requisite for many of our science and arts courses, and may prove valuable for future creative and professional pursuits.
 
-Most classes will begin with a discussion of the previous week’s theme and homework, followed by a lecture and discussion. We’ll save the remaining time in class for discussing the homework assignment that will be due the following week. 
+Classes will begin with a discussion of the previous week’s theme and homework, followed by a lecture and discussion. We’ll save the remaining time in class for discussing the homework assignment that will be due the following week. 
 
 ## Assignments 
 
-Students will be assigned weekly readings and videos and must post a 500 word reflection on each week’s topic with at least three questions for discussion in the following week’s class. Reflections and questions must be posted by 12pm on Sunday. 
+Students will be assigned weekly readings and videos related to that week's lecture topic. In addition to these readings, students must write a 500 word reflection on each week’s topic with at least three questions for discussion in the following week’s class. Reflections and questions must be posted to the class blog hosted on GitHub by 12pm every Sunday.
 
 The class will have one midterm and one final assignment. For the midterm, students will write a 5,000 word essay about a research topic they will be assigned on the first day of class. For their final projects, students will research and prepare 7 minute presentations on a research topic of their choosing.   
 
 ## Schedule:
 
-#### Week 1: Water
-* The early role of water in human civilization
-* Irrigation and plumbing
-* Dams and spillways
-* Water as a commodity
-* Water crisis
+Classes are one extended period in length, of 90 minutes. 
 
-Setting up a blog (30 minutes)
+#### Week 1: Water
+* Water and biology
+* Water infrastructure
+* Water as a commodity
+* Modern water crisis
+
+Posting to Github (10 minutes)
 
 Midterm topic assignments (10 minutes)
 
@@ -45,11 +46,9 @@ Midterm topic assignments (10 minutes)
 #### Week 2: Sanitation
 Water discussion (15 minutes)
 
-* Life before sanitation
-* Disease and pests
+* Waste and the environment
 * Ancient sewers and waste disposal
-* Key advancements in sanitation and what they mean for us
-* Modern sanitation
+* Modern sanitation systems
 * The future of sanitation
 
 ##### Homework: 
@@ -68,9 +67,8 @@ Water discussion (15 minutes)
 #### Week 3: Plastic + Midterm
 Sanitation discussion (15 minutes)
 
-* Invention of Plastic
+* What is plastic?
 * Plastic’s many uses
-* Plastic today
 * Plastic and pollution
 * New plastics
 
@@ -91,11 +89,10 @@ Midterm discussion (15 minutes)
 
 Announce your final project idea (30 seconds each)
 
-* US Treasury
 * History of currency
 * Debit and credit
+* Trade and finance
 * Cryptocurrency and blockchain
-* Alternatives
 
 ##### Homework: 
 1. Money and plastics readings
@@ -115,15 +112,13 @@ Plastics discussion (10 minutes)
 
 Money discussion (10 minutes)
 
-* The work week
-* Pre-industrial work
+* Pre-industrial work week
 * The industrial revolution
-* Labor movement
-* Decline of unions
+* Rise and fall of labor movements
 * Future of work
 
 ##### Homework: 
-1. Readings
+1. Readings about labor
 2. Finish your final presentation for next week
 
 ##### Readings: (choose three)
