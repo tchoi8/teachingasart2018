@@ -22,7 +22,9 @@ Please install [Second Life](https://secondlife.com) and familiarise yourself wi
 
 #### Week 3
 Session 05: The evolution and history of online, social spaces.<br/>
-Session 06: _This class will be held in a classroom environment in Second Life, physical attendance is optional, virtual attendance is mandatory._ We will discuss Deleuze, Chaos Magic, multiplicity and inventing new worlds.<br/>
+
+_This session will be held in a virtual classroom environment in Second Life, physical attendance is optional._</br>
+Session 06:  We will discuss Deleuze, Chaos Magic, multiplicity and our capacity for inventing new worlds. <br/>
 Homework: Analyse your experience, what are the rules of this space? Who is included and who is excluded in this new social assemblage?
 
 ![](https://i.ytimg.com/vi/-kp6eAhFEcg/maxresdefault.jpg)
