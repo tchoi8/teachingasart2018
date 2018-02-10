@@ -2,6 +2,8 @@
 
 # Don’t Take This Class for Granted
 
+
+
 ## Synopsis 
 
 In this course, students will explore the systems and history of things they encounter every day. From water to the origins of the weekend, we will spend 6 weeks exploring what most people take for granted. 
