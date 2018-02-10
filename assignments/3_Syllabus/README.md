@@ -1,5 +1,7 @@
 ## Week 3's homework assignment ##
 
+Design a curriculum for a 6-weeks class in your high school.
+
 ![](img/charlie.png)
 
 - Design a syllabus for a class in 'your high school.' Contextualize the class within the curriculum you designed. Focus on the learning outcomes (tangible takeaways) while thinking about the learning objectives. You can also update your curriculum from last week.
