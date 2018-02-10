@@ -10,13 +10,13 @@ Session 01:  Introduction to Metaphysics. Plato's Cave. Realism and Idealism.<br
 Session 02: Introduction to Deleuze's conception of the virtual, the real and the actual.
 
 #### Week 2:
-Session 03: Reality as a social construction. Drawing from Deleuze's 'Assemblage Theory' we will consider how ideas and systems can be broken down into other ideas and yet maintain their significance as a whole. This will lead us to a discussion about the idea of Emergence and scientific reductionism.<br/>
-Session 04: Field Trip - How might 'virtual experience' exist in physical space. [Dialogue in the Dark](http://www.dialogue-in-the-dark.com/).<br/>
+Session 03: Reality as a social construction. Drawing from Deleuze's 'Assemblage Theory' we will consider how ideas and systems can be broken down into other ideas and yet maintain their significance as a whole. This will lead us to a discussion about the idea of emergence and scientific reductionism.<br/>
+Session 04: Field Trip - How might 'virtual experience' exist in physical space? [Dialogue in the Dark](http://www.dialogue-in-the-dark.com/).<br/>
 Homework:  Field trip report
 
 ### Module 2:  Virtual Spaces
 
-Please install second life and familiarise yourself with this environment. Do the in-game tutorial.
+Please install [Second Life](https://secondlife.com) and familiarise yourself with this environment. Do the in-game tutorial before coming to class.
 
 #### Week 3
 Session 05: The evolution and history of online, social spaces.<br/>
@@ -29,7 +29,6 @@ Homework: Analyse your experience, what are the rules of this space? Who is incl
 Session 07: Digital Identity - Selfies, memes and diverse narratives. How has the internet changed and diversified our ideas about identity and beauty? We will consider the work of instagram activists Monroe Bergdof and Roscoe Ramone and Meme artist @scariest_bug_ever.<br/>
 Session 08: Performance art, Fluxus, political art.<br/>
 Homework: Stage and document a performance in virtual space.
-
 
 ### Module 3: Virtual Community
 #### Week 5
