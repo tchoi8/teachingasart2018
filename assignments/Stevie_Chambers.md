@@ -1,9 +1,9 @@
 > Design a syllabus for a class in 'your high school.' Contextualize the class within the curriculum you designed. Focus on the learning outcomes (tangible takeaways) while thinking about the learning objectives. You can also update your curriculum from last week. The syllabus needs to include a class title, description, and schedule. Please follow the syllabus worksheet. 500 words & 1 image
 
 # The Syllabus
-...I designed is for a class titled "Hip-Hop Music and Culture" which would take the place for the "AfroBeats" class that I had on my curriculum from last week's homework.
+that I designed is for a class titled "Hip-Hop Music and Culture" which would take the place of the "AfroBeats" class that I had on my curriculum from last week's homework. Everything else there remains as is.
 
-image
+![](assignments/2_Curriculum/img/Stevie_Syllabus.jpg)
 
 The image above shows the shell of the syllabus for this class, including the class description, course requirements, and grading guidelines. Below, there's the meat of the syllabus - basically what I came up with from a bunch of messy, confused papers that made up my syllabus worksheet.
 
@@ -39,4 +39,5 @@ The image above shows the shell of the syllabus for this class, including the cl
 ## Week 6
 **The Hip-Hop Wars**
 * In  class: This week we will discuss sexism, violence,masculinity and misogyny in hip-hop. In-class screening of **Hip-Hop: Beyond Beats and Rhymes**.
-* Homework Assignment: Watch a film of your choice that relates to any aspect of hip-hop culture (must be approved by the end of this week). Prepare for midterm exam.
+* Homework Assignment: Watch a film of your choice that relates to any aspect of hip-hop culture (must be approved by the end of this week).
+* **Prepare for midterm exam.**
