@@ -1,5 +1,6 @@
 # Living Patterns
 ![alt text](https://raw.githubusercontent.com/bevchou/teachingasart2018/master/assignments/3_Syllabus/img/sea%20urchin.jpg)
+
 Fire sea urchin photo by Tim Laman
 
 ## Overview
@@ -8,7 +9,7 @@ This class will be an exploration on the ways on which our lives are influenced 
 ### Assignments
 For assignments students will delve more deeply specific topics of their choosing. All homework assignments have a short writing component (< 1 page), but students should convey their ideas in mediums relevant to the topic they are exploring.
 
----
+
 
 ## Weekly Schedule
 
