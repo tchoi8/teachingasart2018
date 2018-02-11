@@ -4,6 +4,9 @@
 
 Through making, we will explore the science, mathematics, design, construction, and overall process behind creating.  Students will work independently yet collectively to employ common approaches to their unique projects.  The instructor will work alongside the students, providing an example of a topic of his/her choosing.  Each week students will present on their work from the previous week, culminating in a final presentation on his/her experience in completing a 5-week project of their choice.  
 
+[![IMAGE ALT TEXT HERE](https://github.com/jps723/teachingasart2018/blob/master/assignments/3_Syllabus/img/Syllabus.JPG)
+
+
 **Week 1:  Choosing a topic**
 	
 	Discussion on mediums with examples from past students
