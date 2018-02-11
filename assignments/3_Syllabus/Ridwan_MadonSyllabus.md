@@ -121,6 +121,6 @@ _Platform 9 3/4_
 
 Wizards will create a mid-term project that demonstrate all of the skills learnt throughout the five weeks. Wizards are required to combine any of their other chosen subject and make a mid-term piece. Collaboration among other wizards or wizards from other parts of the world is permissible.
 
--![](teachingasart2018/blob/master/assignments/2_Curriculum/img/secondweek-02.jpg)
-+![](https://github.com/dwantilus/teachingasart2018/blob/master/assignments/2_Curriculum/img/secondweek-02.jpg)
+-![](teachingasart2018/blob/master/assignments/3_Syllabus/img/IMG_1508.JPG)
++![](https://github.com/dwantilus/teachingasart2018/blob/master/assignments/3_Syllabus/img/IMG_1508.JPG)
 
