@@ -15,29 +15,37 @@ Session 02: Introduction to Deleuze's conception of the virtual, the real and th
 
 #### Week 2:
 Session 03: Field Trip - How might 'virtual experience' exist in physical space? [Dialogue in the Dark](http://www.dialogue-in-the-dark.com/).<br/>
-Session 04: Reality as social construction. Community as assemblage of people. Drawing from Deleuze notion of 'Assemblage Theory' we will consider how ideas and systems can be broken down and yet maintain their significance as a whole. We will pay close attention to how this applies to notions of community in rural, urban and online contexts. <br/>
 Homework:  Field trip report
 
 ### Module 2:  Virtual Spaces
 
-Please install [Second Life](https://secondlife.com) and familiarise yourself with this environment. Do the in-game tutorial before coming to class.
+Session 04: The evolution and history of online, social spaces.<br/>
 
 #### Week 3
-Session 05: The evolution and history of online, social spaces.<br/>
+Please install [Second Life](https://secondlife.com) and familiarise yourself with this environment. Do the in-game tutorial before coming to class.
 
 _This session will be held in a virtual classroom environment in Second Life, physical attendance is optional._</br>
-Session 06:  We will discuss Deleuze, Chaos Magic, multiplicity and our capacity for inventing new worlds. <br/>
+Session 05:  We will discuss Deleuze, Chaos Magic, multiplicity and our capacity for inventing new worlds. <br/>
+
 Homework: Analyse your experience, what are the rules of this space? Who is included and who is excluded in this new social assemblage?
 
 ![](https://i.ytimg.com/vi/-kp6eAhFEcg/maxresdefault.jpg)
 
+
+Session 06: Digital Identity - Selfies, memes and diverse narratives. How has the internet changed and diversified our ideas about identity and beauty? We will consider the work of instagram activists [Monroe Bergdof](https://www.instagram.com/munroebergdorf/?hl=en) and [Roscoe Ramone](https://www.instagram.com/roscoeramone) and Meme artist [@scariest_bug_ever](https://www.instagram.com/scariest_bug_ever/?hl=en).<br/>
+
 #### Week 4
-Session 07: Digital Identity - Selfies, memes and diverse narratives. How has the internet changed and diversified our ideas about identity and beauty? We will consider the work of instagram activists [Monroe Bergdof](https://www.instagram.com/munroebergdorf/?hl=en) and [Roscoe Ramone](https://www.instagram.com/roscoeramone) and Meme artist [@scariest_bug_ever](https://www.instagram.com/scariest_bug_ever/?hl=en).<br/>
-Session 08: Performance art, Fluxus, political art.<br/>
+
+Session 07: Performance art, Fluxus, political art.<br/>
 Homework: Stage and document a performance in virtual space.
 
 ### Module 3: Virtual Community
+
+Session 08: What is a community? The goal of this session is to have students think critically and creatively about how communities enforce their territory and are  maintained in a technological context.  We will build on Deleuze and Delanda's notion of 'Assemblage theory'. <br/>
+
 #### Week 5
+
+
 Session 09: Socially engaged art practice and creative approaches to building communities.<br/>
 Session 10: Internet as public space. What improvements that could be made? What is the connection between physical, virtual and social spaces? Consider examples of socially engaged digital practice such as [Or Zubalsky](http://orzubalsky.com/).  <br/>
 Homework: find an online community who might share some of your interests, introduce yourself and make a contribution.
