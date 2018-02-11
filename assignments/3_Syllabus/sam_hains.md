@@ -53,4 +53,4 @@ Homework: find an online community who might share some of your interests, intro
 #### Week 6
 Session 11: Open source philosophy, hacktivists, political movements and collaboration tools. <br/>
 Session 12: Corporate cyber space, silicon valley and contemporary challenges to the internet as 'public space'. Net neutrality.<br/>
-homework: create a 'public space' on the internet, what are the rules? who is allowed and who is not?
+Homework: create a 'public space' on the internet, what are the rules? who is allowed and who is not?
