@@ -20,6 +20,7 @@ Enshrined in strength, in majesty displayed;
 All the soul’s secret thoughts it seems to move,
 Beneath it trembles, while it frowns above.”
 Goethe.
+![](img/cloudone.jpg)
 
 
 
@@ -96,11 +97,6 @@ Final project
 
 Session 7: Sketchbooks exhibition 
 
+![](img/cloudtwo.jpg)
 
 
-
-
- 
-
-Resources
-http://www.sciencemag.org/news/2016/12/watch-cloud-being-born
