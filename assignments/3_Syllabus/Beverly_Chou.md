@@ -1,4 +1,4 @@
-![alt text](the right url)
+![alt text](https://raw.githubusercontent.com/bevchou/teachingasart2018/master/assignments/3_Syllabus/img/sea%20urchin.jpg)
 Fire sea urchin photo by Tim Laman
 
 ## Overview
