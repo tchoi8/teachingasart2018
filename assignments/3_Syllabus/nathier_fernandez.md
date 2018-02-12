@@ -24,7 +24,8 @@ Goethe
 
 
 
-Description
+
+DESCRIPTION
 
 Johann Wolfgang von Goethe was one of the most celebrated intellectuals of the 19th century, as a writer 
 he was a bursting talent and a jewel for his country, but Goethe’s prose not only flourished in his novels 
@@ -33,16 +34,17 @@ class, students will learn about the history of different branches of science, t
 biologist, mathematicians, composers and even actors. Readings, sketching, experimentation and in class 
 lectures will give place to projects, the crazier the better. 
 
-Materials
+MATERIALS
 
 Readings will be provided to the student. A sketchbook is mandatory for all students of this class. 
 
-Attendance
+ATTENDANCE
 
 You are expected to attend all the sessions, if for medical or personal reasons you are unable to attend 
 please inform in advance. Three unexcused absences will make you fail this class.
 
-Assignments and projects
+
+ASSIGMENTS AND PROJECTS
 
 Two sketchbook entries (illustrations, poem, doodling, etc) per week.
 
