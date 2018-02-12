@@ -2,6 +2,10 @@
 
 A graduate level course offered at NYU ITP in Spring 2018
 
+Professor: [Taeyoon Choi](http://taeyoonchoi.com) trc6@nyu.edu 
+ 
+T.A.: [Shira Feldman](http://www.shira-feldman.net) srf320@nyu.edu
+
 This class is for artists and creative technologists who want to teach. A good teacher is also a great student themself. They transform their curiosity into knowledge and share their learning processes with others. One can learn to become a better teacher by staying fearless about ‘not knowing’ something, embracing radically open ideas and connecting various expertise and knowledge. Teaching can be a form of artistic and creative practice in collaboration with a diverse community. Teachers can invent new forms of learning spaces, new kinds of collaboration and new senses of community.
 
 In this class, students will learn about applying creative processes to teaching. Students will read about the history of artists in and out of academic institutions, Black Mountain College, as well as more recent experiments. Students are expected to engage in critical discussions about the topics.
@@ -163,8 +167,19 @@ For future classes, we will move our discussions more towards artists and artwor
 
 February 12, 2018
 
+[Slides](https://tchoi8.github.io/teachingasart/lecture4)
 
 Lecture about pedagogy, the craft of teaching. Traditional pedagogy and critical pedagogy, alternative education.  
+
+### Midterm: 
+- Design a workshop inspired or informed by either Anni Albers, Joseph Beuys or Lygia Clark’s work.
+- Workshop should intend to happen at a New York based museum
+- Visitors/participants in your workshop are limited to 10 people are less 
+- Experience should be 1 hour or less 
+- Should be free or low cost - for participants and to produce as a workshop
+- Site visit suggested - incorporate the community and environment itself into your workshop
+- Write a syllabus for the workshop
+- Presentation as 10 minute activation of workshop proposal - participatory with peers in class together. 
 
 
 
