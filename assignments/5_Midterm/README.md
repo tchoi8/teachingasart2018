@@ -8,3 +8,5 @@ Proposal due date 2.25 Noon
 You will update your proposal with a full description and documentation before the Midterm presentation. 
 
 Midterm due date 3.4 Noon 
+
+![](img/alys.jpg)
