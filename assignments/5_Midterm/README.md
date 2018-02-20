@@ -10,3 +10,5 @@ You will update your proposal with a full description and documentation before t
 Midterm due date 3.4 Noon 
 
 ![](img/alys.jpg)
+
+Francis Alÿs, Untitled (Tangier - Tarifa, Oct 2007). Study for Don’t cross the bridge before you get to the river, 2007
