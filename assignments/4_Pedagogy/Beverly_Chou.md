@@ -1,5 +1,7 @@
 ## How To Boil An Egg at ITP
 
+![ITP microwave](./img/bevchou_microwave.jpg)
+
 ### Summary
 
 This is a syllabus a 20 minute workshop on for how to boil eggs in a microwave while learning about how to navigate and maintain the kitchen at ITP
