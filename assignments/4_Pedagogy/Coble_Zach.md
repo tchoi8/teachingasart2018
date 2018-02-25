@@ -1,8 +1,8 @@
 Below is the syllabus for my egg boiling session with Oren.
 
-###Syllabus
+### Syllabus
 
-####Benefits of eggs
+#### Benefits of eggs
 
 **Eggs as part of a healthy diet**
 - I know you've wondered wheather you'll be able to maintain a motivation for learning once your outside of grad school
@@ -13,19 +13,19 @@ Below is the syllabus for my egg boiling session with Oren.
 - Good for your eyes: they are a rich source vitamin A
 - Good for your bones: they have lots of vitamin D
 
-####Give overview of steps####
+#### Give overview of steps
 
 ![](img/zc1.jpg)
 
-####DIY learning####
+#### DIY learning
 - Give my handout with instructions to Oren and ask him do it himself
 	- You've mentioned that you learn best by doing
 	- I want to give you the experience of doing it youself so that you can make it your own process
 
-####Post-boil follow up####
+#### Post-boil follow up
 - Any questions or comments?
 
-####Commentary####
+#### Commentary
 Oren gave me the following feedback:
 - He appreciated having the handout and having the hands-on nature of doing the activty himself
 - Providing information about the nutritional value of eggs was helpful for understanding how this exercise fits into a bigger picture
