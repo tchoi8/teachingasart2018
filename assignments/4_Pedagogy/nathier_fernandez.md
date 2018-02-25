@@ -23,11 +23,3 @@ science behind.
 
 ![](img/egg1.png) 
 
-In the end, we challenge each other to boil an egg under the others instructions. You could find 
-a video of me boiling an egg Nathan’s style
-
-
-
-
-
-https://vimeo.com/257369451
