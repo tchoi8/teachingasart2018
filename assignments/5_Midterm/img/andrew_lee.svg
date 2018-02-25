@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="667px" height="375px" viewBox="0 0 667 375" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>comic</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="comic">
+            <rect id="Rectangle" fill="#D8D8D8" x="0" y="0" width="667" height="375"></rect>
+            <rect id="Rectangle" fill="#FFFFFF" x="25" y="25" width="189" height="325"></rect>
+            <rect id="Rectangle-Copy" fill="#FFFFFF" x="239" y="25" width="189" height="325"></rect>
+            <rect id="Rectangle-Copy-2" fill="#FFFFFF" x="453" y="25" width="189" height="325"></rect>
+            <text id="Where-I-came-from" font-family="HelveticaNeue, Helvetica Neue" font-size="14" font-weight="normal" fill="#000000">
+                <tspan x="60.238" y="191">Where I came from</tspan>
+            </text>
+            <text id="What-happened-to-me" font-family="HelveticaNeue, Helvetica Neue" font-size="14" font-weight="normal" fill="#000000">
+                <tspan x="264.357" y="191">What happened to me</tspan>
+            </text>
+            <text id="Who-I-am-now" font-family="HelveticaNeue, Helvetica Neue" font-size="14" font-weight="normal" fill="#000000">
+                <tspan x="503.011" y="191">Who I am now</tspan>
+            </text>
+        </g>
+    </g>
+</svg>
