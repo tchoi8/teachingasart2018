@@ -12,7 +12,7 @@ I also had a hard time developing social skills, and I internalized a lot of har
 
 The teaching philosophy of my curriculum is based on the idea of a liberal arts education. My intention is to provide students with a diverse array of knowledge, and to allow them to pursue the areas that interest them most, while still exposing them to certain subjects that I consider to be important and worthwhile.
 
-![](https://raw.githubusercontent.com/oshoham/teachingasart2018/master/assignments/2_Curriculum/img/dinosaurs.jpg)
+![](img/dinosaurs.jpg)
 
 I would like to encourage students not to feel that they have to be good at any one particular thing, but instead to enjoy learning for the sake of learning. I would like to create an atmosphere in which mistakes are accepted as a natural part of the learning process.
 
@@ -38,7 +38,7 @@ Students will learn how to learn and will be empowered to direct their own educa
 
 Students will cook meals, eat, and clean the kitchen communally. I had this experience in college for several years, and it changed the way that I thought about what it means to be in community with others. Cooking for and being fed by your classmates teaches responsibility and self-sufficiency, while also demonstrating that being responsible for others can be a source of joy.
 
-![Community Cooking](http://payload.cargocollective.com/1/1/42350/507367/IMG_1450_300.JPG)
+![Community Cooking](img/community-cooking.JPG)
 
 ### Shop
 
