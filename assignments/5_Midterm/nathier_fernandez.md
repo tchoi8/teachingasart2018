@@ -41,7 +41,5 @@ made at the end of the workshop season. Participants will be encouraged once the
 the museum an look for our artist work on display. If they want they could share their findings and experience 
 through the hashtag # wnwmoma
 
-![](img/zine.jpg)
 
-Zine Laura Asmus
 https://workbook.conditionaldesign.org
