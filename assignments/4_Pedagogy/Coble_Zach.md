@@ -1,8 +1,8 @@
 Below is the syllabus for my egg boiling session with Oren.
 
-###Syllabus###
+###Syllabus
 
-####Benefits of eggs####
+####Benefits of eggs
 
 **Eggs as part of a healthy diet**
 - I know you've wondered wheather you'll be able to maintain a motivation for learning once your outside of grad school
