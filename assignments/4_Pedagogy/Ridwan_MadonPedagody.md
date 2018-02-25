@@ -1,5 +1,9 @@
 ## **Unfamiliar living**: 
 
+-![](teachingasart2018/blob/master/assignments/4_Pedagogy/RidwanMadon_eggprimitive.png)
++![](https://github.com/dwantilus/teachingasart2018/blob/master/assignments/4_Pedagogy/RidwanMadon_eggprimitive.png)
+
+
 **Synopsis**
 
 What do we do when the appliances and technology of today that you relied on a everyday basis stop working? How can we re-establish our way of living without causing a huge castratophy, or can we? How can we survive with living the basic systems and making the most out of it? This is a cross-disciplinary class which will allow students to explore and understand the different style of forgotten primitive system of living that exists across continents.
