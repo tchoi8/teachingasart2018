@@ -1,7 +1,7 @@
  Curriculum
 
 ART / MATH / SCIENCE / SOCIAL SCIENCE / LANGUAGE/ SPORTS
-![](img/nathiercurriculum.jpg)
+![](img/curriculummapi.jpg)
 
 
 
