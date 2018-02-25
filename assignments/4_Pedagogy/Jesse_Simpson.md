@@ -3,7 +3,6 @@ For this assignment Sam and I actually boiled some eggs together, each with our 
 How to Boil an Egg
 
 **Syllabus:**
-[![IMAGE ALT TEXT HERE](https://github.com/jps723/teachingasart2018/blob/master/assignments/4_Pedagogy/img/IMG_2674.jpg)
 
 **Course Description:**  This class session will be a hands on workshop where each student will boil an egg. 
 
@@ -27,14 +26,14 @@ How to Boil an Egg
 	
 	Boiling the egg
 	Bathing the boiled egg
-  Deshelling the egg 
+	Deshelling the egg 
   
 **Eating/Cleanup**
 	
 	Eating the egg
 	Disposing of shells
-  Washing the pot
-  Cleaning the countertop
+	Washing the pot
+	Cleaning the countertop
   
 **Homework:**  Review the instructions below and repeat this process for 1 egg, 3 eggs, and 6 eggs.  How do the cooking times vary and how does the experience differ between them?  Are eggs more likely to crack if there are other eggs bumping into them?  How might you prevent this?  Document your trials and write a paragraph on your responses.
 
@@ -56,3 +55,5 @@ How to Boil an Egg
 - - - 
 
 Feedback:  Sam’s eggs came out great, however one piece of feedback he offered was to try to reduce the time of the cooking.  Perhaps by starting with a pot full of warm/hot water, it would reduce the time it takes to reach a full boil.  
+
+[![IMAGE ALT TEXT HERE](https://github.com/jps723/teachingasart2018/blob/master/assignments/4_Pedagogy/img/IMG_2674.jpg)
