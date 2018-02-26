@@ -1,5 +1,6 @@
 
 ![](img/beuys_robbe_seal.jpg)
+
 Robbe (Seal) by Joseph Beuys, 1983
 
 ## Workshop Goals
