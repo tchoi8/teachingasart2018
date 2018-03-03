@@ -1,0 +1,8 @@
+**Common Objects**
+
+-![](teachingasart2018/blob/master/assignments/4_Pedagogy/ridwan_madon_anni-01.png)
++![](https://github.com/dwantilus/teachingasart2018/blob/master/assignments/4_Pedagogy/ridwan_madon_anni-01.png)
+
+The workshop will be organised in conjunction with the exhibition of Anni Albers: Stay Connected [ 1899 - 1994 ]. Common Objects is a participatory environment at the intersection of education, design, and art that aims to foster our evolving relationships with nature, experimental handcrafts and everyday objects through community interactions and creative play. It will be held at Textile Factory 17, situated at the banks of the Hudson River. The workshop consist series of drop-in activities and ongoing projects for audience of all ages that integrates components such as experimental tactile textile or jewellery/accessory making. Visitors will be engaged in creating and producing works using common objects, visitors will not just create art for art but, finding new ways of thinking with traditional methods used by Anni Albers and in this process, making new social relationships. 
+
+The workshop intend to explore the correlation between traditional methods, form & material. Visitors will have a choice to participate in either experimental textile making or jewellery/accessory making. They will be given a whole assortment of familiar objects for creation which will challenge the whole notion of traditional making. The workshop will allow the visitors to be in the sphere of thinking in terms of material and process of its making. In an inventive response to this, visitor will play a role in creative invention and the importance of craft and handmade objects.  

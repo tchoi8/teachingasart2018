@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="800px" height="800px" viewBox="0 0 800 800" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="background: #FFFFFF;">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>Custom Preset 2</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Custom-Preset-2">
+            <g id="Group">
+                <rect id="Rectangle" fill-opacity="0.585343071" fill="#00AFFF" x="0" y="0" width="800" height="800"></rect>
+                <circle id="Oval" stroke="#FAE4D1" fill="#FFFFFF" cx="404" cy="404" r="300"></circle>
+                <circle id="Oval-2" fill="#F5A623" cx="404" cy="404" r="148"></circle>
+            </g>
+        </g>
+    </g>
+</svg>
