@@ -15,7 +15,7 @@ Introduction to the concept of Magick and Sigils.
 
 Key points:
 * Magick as an artistic process
-* Magick as a doorway through which we step into mystery, wilderness and immanence.
+* Magick as a means to move beyond the familiar and the rigid
 * Magick not as enlightenment or objective truth finding
 * Sigil as a practical introduction to magical thinking
 
@@ -27,9 +27,9 @@ _(K Hole Issue #5, p8)_
 
 
 
-### Corporate magic and Viral Sigils
+### Corporate magick and Viral Sigils
 
-Consider the relationship between Chaos Magick and Corporate branding. Branding is about implanting ideas in the brains of an audience, Chaos Magic is about implementing ideas in your own.
+Consider the relationship between Chaos Magick and Corporate branding. Branding is about implanting ideas in the brains of an audience, Chaos Magic is about implanting ideas in your own.
 
 Key points:
 * Both practices depend on creation of sigils and mantras
@@ -59,7 +59,7 @@ How might the hypersigil apply to the concept of internet and cybernetics?
 Key Points:
 * Choices we make defining online personas. eg. Facebook profiles
 * How online persona can manifest change in offline world
-* How things we choose to place on internet reflect and magnify awareness of ourselves
+* How things we choose to place on the internet reflect and magnify awareness of ourselves
 
 ![](http://technoccult.net/wp-content/uploads/2010/02/hypersigilfeedback.png)</br>
 _Hyper Sigil Feedback Loop, Techno  Occult (2010)_
@@ -90,7 +90,7 @@ Once the group has created their sigils, a volunteer will be 3D scanned to compl
 [Russell and Louv Interview on Magick](http://www.duncantrussell.com/episodes/2018/2/23/jason-louv)</br>
 [K-Hole Issue #5 on Branding and Chaos Magick](http://khole.net/issues/05/)</br>
 [Condensed Chaos: An Introduction to Chaos Magic](https://www.amazon.com/Condensed-Chaos-Introduction-Magic/dp/1935150669)</br>
-[Structure Sensor 3D Scanning Tutorial](https://structure.io/getstarted/first-use)</br>
 [Robert Anton Wilson on Reality Tunnels](https://www.youtube.com/watch?v=VXRJC8b8qEk)</br>
 [Operation Mindfuck](https://www.youtube.com/watch?v=oIs442IQR4U)</br>
 [Genesis P-Orridge Lecture on Magick and Cut-ups](https://www.youtube.com/watch?v=mUgIPmSUhew)
+[Structure Sensor 3D Scanning Tutorial](https://structure.io/getstarted/first-use)</br>
