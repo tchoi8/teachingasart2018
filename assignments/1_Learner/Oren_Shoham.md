@@ -16,4 +16,4 @@ Sometimes I can be an impatient learner. When I'm excited about a concept or ski
 
 ## Learning Map
 
-![](https://raw.githubusercontent.com/oshoham/teachingasart2018/master/assignments/1_Learner/img/Oren_Shoham.jpg)
+![](img/Oren_Shoham.jpg)
