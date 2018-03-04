@@ -17,7 +17,7 @@ Key points:
 * Magick as an artistic process
 * Magick as a doorway through which we step into mystery, wilderness and immanence.
 * Magick not as enlightenment or objective truth finding
-* Sigil as an introduction to magical thinking
+* Sigil as a practical introduction to magical thinking
 
 
 _"On a bargain basement level, Chaos Magic lives in the same realm as the cult of positive thinking. But it goes beyond making mood boards of highend apartments you’d like to will into your possession. Belief becomes a technology that creates change..._
@@ -49,7 +49,7 @@ _"The 'hypersigil' or 'supersigil' develops the sigil concept beyond the static 
 _(Grant Morrison, Pop Magic, 2014)_
 
 
-Example:</br>
+Examples:</br>
 [Amalia Ulman and her Instagram performance](https://www.elle.com/culture/art-design/a38857/amalia-ulman-instagram-artist/)</br>
 
 ### Hypersigils and Cybernetics
