@@ -187,11 +187,16 @@ Lecture about pedagogy, the craft of teaching. Traditional pedagogy and critical
 
 February 26, 2018
 
+1. Homework review
+2. Midterm proposal workshop
+3. Interdependence activity 
+4. Discussion on the reading on [Socially Engaged Art](https://tchoi8.github.io/teachingasart/lecture4#/28) 
+
 Lecture about accessible and inclusive learning spaces, Makerspaces, community spaces, libraries.
 Special focus on disability and access for Deaf, blind and wheelchair users.  
 
 - [Sara Hendren](http://aplusa.org/)
-- [Vicky Henson](https://en.wikipedia.org/wiki/Vicki_L._Hanson)
+- [Vicky Hanson](https://en.wikipedia.org/wiki/Vicki_L._Hanson)
 - [Making Lab](https://4.apap.or.kr/en/makinglab)
 - [Poetic Science Fair](http://blog.sfpc.io/post/104936684316/poetic-science-fair-at-silent-barn)
 
