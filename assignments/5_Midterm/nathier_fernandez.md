@@ -19,7 +19,9 @@ This workshop was to be ideally held at the MOMA. It was one of the first places
 Workshop:
 
 Materials: Pencils, colours,  paper
+
 Capacity: 10 people (max) per session
+
 Duration: One hour
 
 ![](img/anniklee.jpeg)
@@ -39,21 +41,34 @@ The idea behind this workshop is to get familiar with Anni Albers life and artwo
   Visual presentation - New landscapes - New representations - New materials
 
 • Prints and drawings / 25 Minutes
-  Visual presentation - fragment from lecture series at the Museum of Modern Art - drawing letter  - New media - New machines - Six prayers
+  Visual presentation - fragment from lecture series at the Museum of Modern Art  - New media - New machines - Six prayers
+  
+• “Draw an open letter with lines, dots and knots” activity  - individual 
 
-• “Take a line for a walk” activity  - individual drawing 
+• “Take a line for a walk” activity  - individual / group drawing 
 ![](img/line.jpeg)
 
- • Six Prayers. In situ
-
- 
-
+• Six Prayers. In situ
 
 
 At the end of the workshop, all the pieces will be put out on display for visitors to see and zines will be made at the end of the workshop season. Participants will be encouraged once the session is over to explore the museum an look for our artist work on display. If they want they could share their findings and experience through the hashtag #warpnweft
 
 
+ -----------------------------------------------------------------------------------------------------------------------------
 
+• TAKE A LINE FOR A WALK -  10 minutes experience activity  - individual / group drawing - 7 Years & Up
 
+Participants will have big sheets of paper and colors for this activity.
+
+![](img/anni-albers-workshop-lowlow_Page_03.jpg)
+![](img/anni-albers-workshop-lowlow_Page_04.jpg)
+![](img/anni-albers-workshop-lowlow_Page_05.jpg)
+![](img/anni-albers-workshop-lowlow_Page_06.jpg)
+![](img/anni-albers-workshop-lowlow_Page_07.jpg)
+![](img/anni-albers-workshop-lowlow_Page_08.jpg)
+![](img/anni-albers-workshop-lowlow_Page_09.jpg)
+![](img/anni-albers-workshop-lowlow_Page_10.jpg)
+![](img/anni-albers-workshop-lowlow_Page_11.jpg)
+![](img/anni-albers-workshop-lowlow_Page_12.jpg)
 
 https://workbook.conditionaldesign.org
