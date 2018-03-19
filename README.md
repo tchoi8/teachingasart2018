@@ -216,8 +216,11 @@ Lecture about combining theory and practice in art and teaching, through unlearn
 - [Vicky Hanson](https://en.wikipedia.org/wiki/Vicki_L._Hanson)
  
 Required readings and viewings  
-- [UNPRESIDENTED TIMES: CHITRA GANESH](https://www.artforum.com/slant/chitra-ganesh-on-the-election-65829)
+
+- [Unpresidented Times](https://www.artforum.com/slant/chitra-ganesh-on-the-election-65829)
 - [Cultural Appropriation Roundtable Artforum](https://blogs.brown.edu/hiaa-1810-s01-fall-2017/files/2017/08/CULTURAL-APPROPRIATION-A-ROUNDTABLE-artforum.com-in-print.pdf)
+- [Art is Medicine](https://www.artforum.com/print/201803/helen-molesworth-on-the-work-of-simone-leigh-74304)
+- More [reading references](https://github.com/tchoi8/teachingasart2018/blob/master/lectures/lecture5.md)
 
 ## Week 8 Platforms
 
