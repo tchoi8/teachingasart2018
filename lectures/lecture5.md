@@ -1,4 +1,4 @@
-## Week 7 - On Learning 
+## Week 7 - Unlearning 
 
 - How to make challenging artwork, art which elicits reactions that are strong and nuanced
 - How to own up your bias, your insensitivity, your power + positionality 
