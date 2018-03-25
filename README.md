@@ -187,13 +187,11 @@ Lecture about pedagogy, the craft of teaching. Traditional pedagogy and critical
 
 February 26, 2018
 
-Lecture about accessible and inclusive learning spaces, Makerspaces, community spaces, libraries.
-Special focus on disability and access for Deaf, blind and wheelchair users.  
-
-- [Sara Hendren](http://aplusa.org/)
-- [Vicky Henson](https://en.wikipedia.org/wiki/Vicki_L._Hanson)
-- [Making Lab](https://4.apap.or.kr/en/makinglab)
-- [Poetic Science Fair](http://blog.sfpc.io/post/104936684316/poetic-science-fair-at-silent-barn)
+1. Homework review
+2. Midterm proposal workshop
+3. Interdependence activity 
+4. Discussion on the reading on [Socially Engaged Art](https://tchoi8.github.io/teachingasart/lecture4#/28) 
+ 
 
 
 ## Week 6 Midterm presentation
@@ -209,22 +207,31 @@ and enjoy 1 week of no class. :)
 
 March 19, 2018
 
-[Lecture 6](https://tchoi8.github.io/teachingasart/lecture6.html#/)
-Lecture about combining theory and practice in art and teaching, through unlearning and plasticity.  
+[Lecture 5](https://tchoi8.github.io/teachingasart/lecture5.html#/)
+Lecture about combining theory and practice in art and teaching, through unlearning and plasticity, appropriation and representation. 
 
-- [Unlearnign disability](https://speakerdeck.com/tchoi8/unlearning-disability)
-- [Capability and potentiality](https://tchoi8.github.io/poetic-computation-16/slides/week7#/)
-- Judith Butler
-- Martha Nussbaum
+- [Judith Butler](https://en.wikipedia.org/wiki/Judith_Butler)
+- [Martha Nussbaum](https://en.wikipedia.org/wiki/Martha_Nussbaum)
+- [Sara Hendren](http://aplusa.org/)
+- [Vicky Hanson](https://en.wikipedia.org/wiki/Vicki_L._Hanson)
+ 
+Required readings and viewings  
 
-Student presentation about a lesson plan for a workshop.
-
+- [Unpresidented Times](https://www.artforum.com/slant/chitra-ganesh-on-the-election-65829)
+- [Cultural Appropriation Roundtable Artforum](https://blogs.brown.edu/hiaa-1810-s01-fall-2017/files/2017/08/CULTURAL-APPROPRIATION-A-ROUNDTABLE-artforum.com-in-print.pdf)
+- [Art is Medicine](https://www.artforum.com/print/201803/helen-molesworth-on-the-work-of-simone-leigh-74304)
+- More [reading references](https://github.com/tchoi8/teachingasart2018/blob/master/lectures/lecture5.md)
 
 ## Week 8 Platforms
 
 March 26, 2018
-
-
+Accessible and inclusive learning spaces, Makerspaces, community spaces, libraries.
+Special focus on disability and access for Deaf, blind and wheelchair users.  
+ 
+- [Unlearnign disability](https://speakerdeck.com/tchoi8/unlearning-disability)
+- [Capability and potentiality](https://tchoi8.github.io/poetic-computation-16/slides/week7#/)
+- [Making Lab](https://4.apap.or.kr/en/makinglab)
+- [Poetic Science Fair](http://blog.sfpc.io/post/104936684316/poetic-science-fair-at-silent-barn)
 - [Christine Sun Kim](http://christinesunkim.com) at [Whitney](http://whitney.org/WhitneyStories/ChristineSunKim)
 - Night School, [Museum as Hub](http://archive.newmuseum.org/index.php/Detail/Occurrence/Show/occurrence_id/951)
 
