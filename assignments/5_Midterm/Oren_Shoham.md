@@ -1,16 +1,46 @@
-# Midterm Proposal: Matière and Tactile Sensibility
+# Workshop Proposal: Medium, Process, and Form
 
-"Just as only a trained eye and a receptive mind are able to discover meaning in the language of colors, so it takes these and in addition an acute sensitivity to tactile articulation to discover meaning in that of _matière_. Thus the task today is to train this sensibility in order to regain a faculty that was once so naturally ours." - Anni Albers, _On Weaving_
+"Acceptance of limitations, as a framework rather than a hindrance, is always proof of a productive mind." - Anni Albers, _On Weaving_
 
-A workshop based on the teachings of Anni Albers, intended to develop participants' haptic awareness of _matière_, the sensations and surface qualities of tangible materials.
+This is a workshop inspired by the teachings of Anni Albers, intended to explore the idea that form can emerge from the interaction between medium and process, and to facilitate creativity within a narrow set of constraints. This workshop also aims to familiarize participants with Anni Albers' life and work, and to contextualize her practice within the Bauhaus school, Black Mountain College, and broader movements in 20th century art.
 
-## The Workshop
+**Duration:** 1 hour
+**Maximum Number of Participants:** 15
 
-Participants will be provided with found materials from the surrounding area, e.g. paper, sticks, stones, wood shavings, fabric, wire mesh, lace, flowers, plastic, electrical components -- whatever is readily available.
+## Schedule
 
-Participants will experiment with creating order, composition, and juxtaposition out of these materials, perhaps by grouping, cutting, curling, twisting, tearing, perforating, scratching, squishing, stretching, or otherwise deforming them.
+### Presentation and Discussion on Anni Albers (10 minutes)
 
-In particular, think about patterns and visual rhythms of horizontals, verticals, and diagonals, but don't worry about color.
+- Historical context of the Bauhaus school
+- Weaving, abstraction, and industrial mass production; the intersections of craft, design, and art work
+- Focus on experimentation with material and process
+- Black Mountain College and teaching
+
+### Individual Exercise (15 minutes)
+
+![](img/wooden-structure.jpg)
+
+Participants will be given hot glue guns and several sticks of bass wood and will be asked to start building a structure of their choosing, about the size of a coffee cup. The goal is to practice "sketching" with the provided materials, to start to get a sense of the kinds of shapes and forms that they afford.
+
+### Discussion (5 minutes)
+
+How do you feel about your final form?
+
+Did you have an intended form in mind when you started building?
+
+Did you find the constraints of this exercise to be limiting or expressive?
+
+### Group Exercise (20 minutes)
+
+Once again, participants will be given hot glue guns and bass wood sticks, but this time they will be divided into groups of 3-4 (depending on the number of people) and asked to collaboratively build a larger structure together, about the size of a teapot. Each participant will take turns adding to the construction, almost like an exquisite corpse. Participants will not be allowed to tell each other what to do.
+
+### Discussion (10 minutes)
+
+How do you feel about your final form?
+
+What kinds of considerations informed your building process?
+
+How did the collaborative process influence your group's structure?
 
 ## References and Suggested Readings
 
@@ -21,13 +51,3 @@ In particular, think about patterns and visual rhythms of horizontals, verticals
 [Christina Glover, _Anni Albers's Modernist Philosophy in Thread and Text_](http://diginole.lib.fsu.edu/islandora/object/fsu:185061/datastream/PDF/view)
 
 [The Josef & Anni Albers Foundation, _Student Work_](http://www.albersfoundation.org/teaching/josef-albers/student-work/)
-
-## _Matière_ Examples
-
-![](img/matiere1.jpg)
-![](img/matiere2.jpg)
-![](img/matiere3.jpg)
-![](img/matiere4.jpg)
-![](img/matiere5.jpg)
-![](img/matiere6.jpg)
-![](img/matiere7.jpg)
