@@ -222,11 +222,26 @@ Required readings and viewings
 - [Art is Medicine](https://www.artforum.com/print/201803/helen-molesworth-on-the-work-of-simone-leigh-74304)
 - More [reading references](https://github.com/tchoi8/teachingasart2018/blob/master/lectures/lecture5.md)
 
-## Week 8 Platforms
+## Week 8 Unlearning and platforms
 
 March 26, 2018
+
+[Lecture 6](https://tchoi8.github.io/teachingasart/lecture6#/)
 Accessible and inclusive learning spaces, Makerspaces, community spaces, libraries.
 Special focus on disability and access for Deaf, blind and wheelchair users.  
+	
+## Required readings for Jessica Lynne's visit next week 
+		
+- [A letter from an arts worker: Delana Dameron John](/http://arts.black/2017/04/a-letter-from-an-arts-worker-delana-dameron-john/)
+- [A letter from an arts worker: Jessica Lynne](http://arts.black/2017/04/a-letter-from-an-arts-worker-jessica-lynne/)
+- [For many returns](http://contemptorary.org/for-many-returns/)
+		
+## Optional
+
+- [Kelley Walker’s...](https://static1.squarespace.com/static/580e28a315d5db3c89dfcce1/t/58179f62e4fcb5fd5924c60b/1477943139513/2010_Ligon_Parkett_Walker.pdf)
+- [Black Teens Are Breaking The Internet And Seeing None Of The Profits](http://www.thefader.com/2015/12/03/on-fleek-peaches-monroee-meechie-viral-vines)		
+		
+
  
 - [Unlearnign disability](https://speakerdeck.com/tchoi8/unlearning-disability)
 - [Capability and potentiality](https://tchoi8.github.io/poetic-computation-16/slides/week7#/)
@@ -274,7 +289,9 @@ April 23, 2018
 
 Student presentation on their final project: workshop.
 
+## Week 12 Final Final
 
+Last lecture and discussion 
 
 ### Instructor information
 
