@@ -12,20 +12,20 @@ A comic writing workshop for children and adults.
 
 Crayons, pens, and pieces of paper are handed out to each participant.
 
-Each piece of paper is divided into three sections:
+Each piece of paper is divided into two sections:
 
-- Where I came from
-- What happened to me
-- Who I am now
+- Where I came from...
+- Who I am now...
 
-Participants are told to illustrate or write in the first and last panels.
+Participants are told to illustrate or write in the two panels.
 
 Content can be written word, imagery, or a combination of both. Panels can be subdivided if desired.
 
-### The Myth
+### The Mythology
 
-Participants are told to fill the middle panel with something that connects the first panel with the last panel. The connecting panel can be fictitious, a twist on the truth, or based completely on the truth.
+The panels are capped with two bookend panels:
 
-### Display
+- the universe begins
+- the universe ends
 
-Completed comics are pinned up on a wall.
+10 minutes before end of session, participants line up and place their piece somewhere in the timeline between the two endcaps.
