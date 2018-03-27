@@ -2,6 +2,11 @@
 
 A graduate level course offered at NYU ITP in Spring 2018
 
+Mondays 3:20~6:10pm 
+Conference room at ITP  
+
+
+
 Professor: [Taeyoon Choi](http://taeyoonchoi.com) trc6@nyu.edu 
  
 T.A.: [Shira Feldman](http://www.shira-feldman.net) srf320@nyu.edu
@@ -232,7 +237,7 @@ Special focus on disability and access for Deaf, blind and wheelchair users.
 	
 **Required readings for Jessica Lynne's visit next week** 
 		
-- [A letter from an arts worker: Delana Dameron John](/http://arts.black/2017/04/a-letter-from-an-arts-worker-delana-dameron-john/)
+- [A letter from an arts worker: Delana Dameron John](http://arts.black/2017/04/a-letter-from-an-arts-worker-delana-dameron-john/)
 - [A letter from an arts worker: Jessica Lynne](http://arts.black/2017/04/a-letter-from-an-arts-worker-jessica-lynne/)
 - [For many returns](http://contemptorary.org/for-many-returns/)
 		
