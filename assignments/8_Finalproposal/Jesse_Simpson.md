@@ -18,15 +18,15 @@ The workshop will follow the below syllabus:
   * Daphne Oram
   * Delia Derbyshire
 * Components of a synthesizer
-* Basic synth voice 
-  * VCO - Voltage Controlled Oscillator
-  * Waveforms - Sine, Square, Triangle, Sawtooth, Noise
-  * 1 V/OCT
-  * VCF - Voltage Controlled Filter
-  * VCA - Voltage Controlled Amplifier
-  * LFO - Low-Frequency Oscillator 
-  * ADSR Envelope - Attack, Decay, Sustain, Release 
-  * Mixer 
+  * Basic synth voice 
+   * VCO - Voltage Controlled Oscillator
+   * Waveforms - Sine, Square, Triangle, Sawtooth, Noise
+   * 1 V/OCT
+   * VCF - Voltage Controlled Filter
+   * VCA - Voltage Controlled Amplifier
+   * LFO - Low-Frequency Oscillator 
+   * ADSR Envelope - Attack, Decay, Sustain, Release 
+   * Mixer 
 * Analog vs Digital 
 * Modern Modular Gurus
   * Richard Devine
