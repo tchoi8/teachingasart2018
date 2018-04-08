@@ -31,7 +31,8 @@ The workshop will follow the below syllabus:
 * Modern Modular Gurus
   * Richard Devine
   * Joseph Fraioli (Datach'i)
-  * Derrick Estrada (Baseck)
+  * Bana Haffar
+  * Lightbath
 
 20 min - Demonstration 
 * Building a synth voice with participation from the students 
