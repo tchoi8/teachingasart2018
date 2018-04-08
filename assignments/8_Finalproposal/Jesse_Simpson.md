@@ -28,6 +28,10 @@ The workshop will follow the below syllabus:
   * ADSR Envelope - Attack, Decay, Sustain, Release 
   * Mixer 
 * Analog vs Digital 
+* Modern Modular Gurus
+  * Richard Devine
+  * Joseph Fraioli (Datach'i)
+  * Derrick Estrada (Baseck)
 
 20 min - Demonstration 
 * Building a synth voice with participation from the students 
