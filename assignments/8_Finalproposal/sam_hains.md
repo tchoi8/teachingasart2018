@@ -4,8 +4,7 @@ or
 or
 ## Webscraping and the Generative Internet
 
-
-This workshop introduces the notion of the internet as a tool for unleashing the power of generativity. It will also function as an overview of various essential hacker tools and techniques for appropriating data from the internet.
+This workshop introduces the notion of the internet as revolutionary generative art tool. It will also function as an overview of various hacker tools and techniques for appropriating data from the internet.
 
 When we think about generative design, often the first thing that comes to mind is geometric shapes and patterns - However as we labour over various bouncing ball experiments in Processing we should not fail to consider that the internet is in itself a gigantic, data-driven, generative system. I would like to encourage students to think more broadly about the possibilities of 'Generativity' in computational art amidst the pulsating data megatropolis that is internet culture.
 
