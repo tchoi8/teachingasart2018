@@ -18,6 +18,8 @@ I imagine that the workshop will be split into 3 major sections:
 **Critique** (15 minutes)- Introduce the idea of Detournment, and some other critical references. What does it mean to uses materials that are loaded with their own meaning and significance?
 **Techniques** (30 minutes)- Introduction to python webscraping and command line tools for appropriating data
 
-This workshop is designed for students of ITP who are presumed to have a basic understanding of programming and technical concepts. Given this specific target audience, I hope that on some level, the workshop would function as a critique of more traditional notions of generative design taught in introductory classes. However, I imagine that it could be extended into a series of workshops for individuals with no prior experience.
+This workshop is designed for students of ITP who are presumed to have a basic understanding of programming and technical concepts. Given this specific target audience, I hope that on some level, the workshop would function as a critique of more classical notions of generative design taught in introductory classes. However, I imagine that it could be extended into a series of workshops for individuals with no prior experience.
+
+I would also like to note that this is exists as part of a broader vision for a more contemporary, data-driven 'Introduction to Computational Media' subject that does not lean so heavily on certain graphic design tropes.
 
 Another reference here is Sam Lavinge's beautiful [curriculum](https://github.com/antiboredom/detourning-the-web-2018).
