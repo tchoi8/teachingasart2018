@@ -54,3 +54,6 @@ There will be two main parts to the workshop. One will be focused on drawing thr
 exercises that challenge preconceived notions of drawing. The other will develop different techniques to 
 illustrate insects, from exquisite core methods to create our very own specimens to my own Coleoptera [Beetles] 
 fast ink approach.
+Blog 
+
+##http://www.nathier.com/final-project-proposal/
