@@ -1,10 +1,10 @@
-# Learn how to make interactive games with Scratch! 
+# Learn how to make games with Scratch! 
 
 [Scratch](https://scratch.mit.edu) is a free tool developed by the [Lifelong Kindergarten](https://www.media.mit.edu/groups/lifelong-kindergarten/overview/) group at MIT Media Lab for learning creative programing. Built to be accessible to beginners of all ages, Scratch utilizes a block-based programming system that lets budding creative technologists literally snap together bits of code for programming games, digital art, and music. 
 
 ![ScratchImage](https://github.com/NatePadgett/teachingasart2018/blob/master/assignments/8_Finalproposal/Nate_Padgett_CatsMeow.png)
 
-During this 1.5 hour workshop we will explore building digital games using Scratch. Participants will learn how to create their own game elements, and how to code their game using Scratch blocks. We will conclude the class with a discussion about Scratch profiles and Scratch’s global online community of creative coders. 
+During this 1.5 hour workshop we will explore building digital games using Scratch. Participants will learn how to create their own game elements and how to code their game using Scratch blocks. We will conclude the class with a discussion about Scratch profiles and Scratch’s global online community of creative coders. By the end of the workshop, participants will have their own functional Scratch game and the konwledge and confidence to start contributing to the Scratch community on their own.
 
 **Students:** ages 8 and up. Students under the age of 16 must be accompanied by an adult.
 
