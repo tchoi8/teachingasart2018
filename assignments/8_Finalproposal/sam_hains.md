@@ -7,7 +7,7 @@ or
 
 This workshop will be an introduction to hacker tools and techniques for appropriating data from the internet.
 
-When we think about generative design, often the first thing that comes to mind is geometric shapes and patterns - However as we labour over various bouncing ball experiments in Processing we should not fail to consider that the internet is in itself a gigantic, data-driven generative system. I would like to encourage students to think more broadly  and critically about possibilities of 'Generativity' in the pulsating data megatropolis that is contemporary internet culture.
+When we think about generative design, often the first thing that comes to mind is geometric shapes and patterns - However as we labour over various bouncing ball experiments in Processing we should not fail to consider that the internet is in itself a gigantic, data-driven generative system. I would like to encourage students to think more broadly  and critically about possibilities of 'Generativity' amidst pulsating data megatropolis that is contemporary internet culture.
 
 In order to take full advantage of the generative nature of internet data culture we benefit from beginning a learning journey into basic automation, data appropriation and hacker tools.
 
