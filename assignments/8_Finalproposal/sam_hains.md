@@ -6,7 +6,6 @@ or
 
 This workshop introduces the notion of the internet as a revolutionary generative art tool. It will also function as an overview of various hacker tools and techniques for appropriating data from the internet.
 
-*Note: I am imagining this also as a first attempt at trying to define a broader vision for a more contemporary, data-driven 'Introduction to Computational Media' curriculum that does not lean so heavily on certain graphic design tropes.*
 
 When we think about generative design, often the first thing that comes to mind is geometric shapes and patterns - However as we labour over various bouncing ball experiments in Processing we should not fail to consider that the internet is in itself a gigantic, data-driven, generative system. I would like to encourage students to think more broadly about the possibilities of 'Generativity' in computational art amidst the pulsating data megatropolis that is internet culture.
 
@@ -22,5 +21,6 @@ I imagine that the workshop will be split into 3 major sections:
 
 This workshop is designed for students of ITP who are presumed to have a basic understanding of programming and technical concepts. Given this specific target audience, I hope that on some level, the workshop would function as a critique of more classical notions of generative design taught in introductory classes. However, I imagine that it could be extended into a series of workshops for individuals with no prior experience.
 
+This workshop exists as a first attempt to try and map out a broader vision I have for a more contemporary, data-driven 'Introduction to Computational Media' curriculum.
 
 Another reference here is Sam Lavinge's beautiful [curriculum](https://github.com/antiboredom/detourning-the-web-2018).
