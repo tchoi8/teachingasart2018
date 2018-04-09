@@ -11,11 +11,11 @@ When we think about generative design, often the first thing that comes to mind 
 
 In order to take advantage of the generative nature of the internet we benefit from beginning a learning journey into basic automation, data appropriation and hacker tools.
 
-This workshop will introduce students to the practice of web-scraping, command line tools and python scripting as a fundamental computation skill for artists wishing to engage critically with our current technological context.
+This workshop will introduce students to the practice of web-scraping, command line and python scripting as the fundamental skills for artists wishing to engage critically with our current technological context.
 
-We must tread carefully when it comes to appropriation  - which is why I would like to spend 15-20 minutes grounding the workshop in some critical notions of hacker culture and appropriation. I need to find some better resources for this but at the moment the concept of [Detourement](https://en.wikipedia.org/wiki/D%C3%A9tournement) seems relevant here - the notion of "Hijacking" cultural materials to counter or explicate an underlying ideology. [Hacker Manifesto](http://www.neme.org/texts/hacker-manifesto) is another relevant reference.
+We must tread carefully when it comes to any form of appropriation - which is why I would like to spend 15-20 minutes grounding the workshop in some critical notions of hacker culture and appropriation. I need to find some better resources for this but at the moment the concept of [Detourement](https://en.wikipedia.org/wiki/D%C3%A9tournement) seems relevant here - the notion of "Hijacking" cultural materials to counter or explicate an underlying ideology. [Hacker Manifesto](http://www.neme.org/texts/hacker-manifesto) is another relevant reference.
 
-This workshop is initially being designed for students of ITP who are presumed to have a basic understanding of the command line and programming concepts. However, I imagine that it could be extended into a series of workshops for individuals with no prior experience.
+This workshop is initially being designed for students of ITP who are presumed to have a basic understanding of programming concepts. However, I imagine that it could be extended into a series of workshops for individuals with no prior experience.
 
 
 Another reference here is Sam Lavinge's beautiful [curriculum](https://github.com/antiboredom/detourning-the-web-2018).
