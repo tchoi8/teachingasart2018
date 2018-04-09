@@ -2,7 +2,7 @@
 or
 ## Internet Generativity
 or
-## Webscraping and Datasets as Art
+## Webscraping and the Generative Internet
 
 
 This workshop will be an introduction to the notion of the internet as a generative oracle. It will also function as an overview of various essential hacker tools and techniques for appropriating data from the internet.
