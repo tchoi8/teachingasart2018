@@ -1,4 +1,8 @@
 ## Jacking into the mainframe
+or
+## Internet Generativity
+or
+## Webscraping and Datasets as Art
 
 
 This workshop will be an introduction to hacker tools and techniques for appropriating data from the internet.
