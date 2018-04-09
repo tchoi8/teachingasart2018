@@ -12,3 +12,6 @@ This workshop will introduce students to the practice of web-scraping and python
 Understandably, we must tread carefully when it comes to appropriation  - which is why I would like to spend 15-20 minutes grounding the workshop in some critical notions of hacker culture and appropriation. I need to find some better resources for this but at the moment the concept of [Detourement](https://en.wikipedia.org/wiki/D%C3%A9tournement) seems relevant here - the notion of "Hijacking" cultural materials to counter or explicate an underlying ideology.
 
 This workshop is initially being designed for students of ITP who are presumed to have a basic understanding of the command line and programming concepts. However, I imagine that it could be extended into a series of workshops for individuals with no prior experience.
+
+
+Another reference here is Sam Lavinge's beautiful [curriculum](https://github.com/antiboredom/detourning-the-web-2018).
