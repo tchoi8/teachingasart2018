@@ -7,13 +7,13 @@ or
 
 This workshop introduces the notion of the internet as a tool for unleashing the power of generativity. It will also function as an overview of various essential hacker tools and techniques for appropriating data from the internet.
 
-When we think about generative design, often the first thing that comes to mind is geometric shapes and patterns - However as we labour over various bouncing ball experiments in Processing we should not fail to consider that the internet is in itself a gigantic, data-driven generative system. I would like to encourage students to think more broadly about the possibilities of 'Generativity' in computational art amidst the pulsating data megatropolis that is internet culture.
+When we think about generative design, often the first thing that comes to mind is geometric shapes and patterns - However as we labour over various bouncing ball experiments in Processing we should not fail to consider that the internet is in itself a gigantic, data-driven, generative system. I would like to encourage students to think more broadly about the possibilities of 'Generativity' in computational art amidst the pulsating data megatropolis that is internet culture.
 
 In order to take advantage of the generative nature of the internet we benefit from beginning a learning journey into basic automation, data appropriation and hacker tools.
 
 We must tread carefully when it comes to any form of appropriation - which is why I would like to spend some time grounding the workshop in critical notions of hacker culture and appropriation. I need to find some better resources for this but at the moment the concept of [Detourement](https://en.wikipedia.org/wiki/D%C3%A9tournement) seems relevant here and its notion of "Hijacking" cultural materials to counter or explicate an underlying ideology. [Hacker Manifesto](http://www.neme.org/texts/hacker-manifesto) - another relevant reference.
 
-I imagine that the workshop will bit split into 3 major sections:
+I imagine that the workshop will be split into 3 major sections:
 
 **Introduction** (15 minutes) - Introduce internet as the master generator, examples of engagements with this idea.
 **Critique** (15 minutes)- Introduce the idea of Detournment, and some other critical references. What does it mean to uses materials that are loaded with their own meaning and significance?
