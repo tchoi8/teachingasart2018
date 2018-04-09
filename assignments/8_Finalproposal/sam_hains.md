@@ -21,6 +21,6 @@ I imagine that the workshop will be split into 3 major sections:
 
 This workshop is designed for students of ITP who are presumed to have a basic understanding of programming and technical concepts. Given this specific target audience, I hope that on some level, the workshop would function as a critique of more classical notions of generative design taught in introductory classes. However, I imagine that it could be extended into a series of workshops for individuals with no prior experience.
 
-This workshop exists as a first attempt to try and map out a broader vision I have for a more contemporary, data-driven 'Introduction to Computational Media' curriculum.
+This workshop also exists (in my head) as a first attempt to try and map out a broader vision for a more contemporary, data-driven 'Introduction to Computational Media' curriculum.
 
 Another reference here is Sam Lavinge's beautiful [curriculum](https://github.com/antiboredom/detourning-the-web-2018).
