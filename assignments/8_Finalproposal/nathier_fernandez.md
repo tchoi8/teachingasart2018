@@ -56,4 +56,4 @@ illustrate insects, from exquisite core methods to create our very own specimens
 fast ink approach.
 Blog 
 
-##http://www.nathier.com/final-project-proposal/
+http://www.nathier.com/final-project-proposal/
