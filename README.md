@@ -6,8 +6,7 @@ Mondays 3:20~6:10pm
 Conference room at ITP  
 
 
-
-Professor: [Taeyoon Choi](http://taeyoonchoi.com) trc6@nyu.edu 
+Professor: [Taeyoon Choi](http://taeyoonchoi.com) trc6@nyu.edu
  
 T.A.: [Shira Feldman](http://www.shira-feldman.net) srf320@nyu.edu
 
@@ -25,7 +24,7 @@ In this class, students will learn about applying creative processes to teaching
 - Week 8: Platforms
 - Week 9: Museum as a school
 - Week 10: Community as a school
-- Week 11: Final project proposal
+- Week 11: Final presentation #1 
 - Week 12: Final presentation #2
 
 Full semester course based on [a class of same title](https://github.com/tchoi8/teachingasart) offered in Spring 2017  
@@ -101,7 +100,7 @@ What is a curriculum? Artists as educators, performance artwork as curriculum
 - [Allan Kapprow](https://en.wikipedia.org/wiki/Allan_Kaprow) & Happening
 - [Institut für Raumexperimente](http://raumexperimente.net/en/) – Berlin
 
- - Community is a curriculum
+- Community is a curriculum
 - Body is a curriculum
 - Space is a curriculum
 - Street is a curriculum
@@ -126,18 +125,7 @@ February 5, 2017
 
 
 [Slides](tchoi8.github.io/teachingasart/lecture3)
-
-Team:
-
-- Jesse - Michael
-- Andrew - Ridwan
-- Nate - Stevie
-- Sam - Zach
-- Kathy - Oren
-- Nathier - Beverly  
-
-Agenda
-
+ 
 1. Review of the [assignments](https://github.com/tchoi8/teachingasart/tree/master/assignments/2_curriculum): create a curriculum, for yourself as a sophomore in high school. Follow the [review worksheet](https://github.com/tchoi8/teachingasart2018/blob/master/lectures/CurriculumWorksheet.md).
 2. Lecture on Syllabus
 3. In class activity: [Syllabus worksheet](https://github.com/tchoi8/teachingasart2018/blob/master/lectures/SyllabusWorksheet.md)  
@@ -162,10 +150,7 @@ For future classes, we will move our discussions more towards artists and artwor
 - [National Galleries Joseph Beuys Learning Resource](https://www.nationalgalleries.org/art-and-artists/features/joseph-beuys-learning-resource)
 - [Lygia Clark - Breath with Me at MoMA Studios](https://www.youtube.com/watch?v=XG2qmCYQ7Ps)
 - [NYTimes review of Lygia Clark's show at MoMA](https://www.nytimes.com/2014/05/16/arts/design/lygia-clarks-many-twists-and-turns-at-moma.html)
-
-
 - Pablog Helguera, [Education for Socially Engaged Art](http://pablohelguera.net/2011/11/education-for-socially-engaged-art-2011/) (2011)
-
 
 
 ## Week 4. Pedagogy
@@ -187,7 +172,6 @@ Lecture about pedagogy, the craft of teaching. Traditional pedagogy and critical
 - Presentation as 10 minute activation of workshop proposal - participatory with peers in class together. 
 
 
-
 ## Week 5  Inclusive learning  
 
 February 26, 2018
@@ -197,7 +181,6 @@ February 26, 2018
 3. Interdependence activity 
 4. Discussion on the reading on [Socially Engaged Art](https://tchoi8.github.io/teachingasart/lecture4#/28) 
  
-
 
 ## Week 6 Midterm presentation
 
@@ -235,6 +218,9 @@ March 26, 2018
 Accessible and inclusive learning spaces, Makerspaces, community spaces, libraries.
 Special focus on disability and access for Deaf, blind and wheelchair users.  
 	
+
+- [Unlearnign disability](https://speakerdeck.com/tchoi8/unlearning-disability)
+
 **Required readings for Jessica Lynne's visit next week** 
 		
 - [A letter from an arts worker: Delana Dameron John](http://arts.black/2017/04/a-letter-from-an-arts-worker-delana-dameron-john/)
@@ -245,16 +231,7 @@ Special focus on disability and access for Deaf, blind and wheelchair users.
 
 - [Kelley Walker’s...](https://static1.squarespace.com/static/580e28a315d5db3c89dfcce1/t/58179f62e4fcb5fd5924c60b/1477943139513/2010_Ligon_Parkett_Walker.pdf)
 - [Black Teens Are Breaking The Internet And Seeing None Of The Profits](http://www.thefader.com/2015/12/03/on-fleek-peaches-monroee-meechie-viral-vines)		
-		
-#### others 
- 
-- [Unlearnign disability](https://speakerdeck.com/tchoi8/unlearning-disability)
-- [Capability and potentiality](https://tchoi8.github.io/poetic-computation-16/slides/week7#/)
-- [Making Lab](https://4.apap.or.kr/en/makinglab)
-- [Poetic Science Fair](http://blog.sfpc.io/post/104936684316/poetic-science-fair-at-silent-barn)
-- [Christine Sun Kim](http://christinesunkim.com) at [Whitney](http://whitney.org/WhitneyStories/ChristineSunKim)
-- Night School, [Museum as Hub](http://archive.newmuseum.org/index.php/Detail/Occurrence/Show/occurrence_id/951)
-
+		 
 Final assignment: Edit your syllabus for a museum workshop for your partner and other participants. Rehearse your teaching for them, in person and in museum or in ITP. Create a feedback form for the participant (student) to give you feedback on your teaching.
 
 
@@ -262,6 +239,11 @@ Final assignment: Edit your syllabus for a museum workshop for your partner and 
 
 April 2, 2018
 
+Lecture on museum education
+
+Special guest: Jessica Lynne 
+
+- [Capability and potentiality](https://tchoi8.github.io/poetic-computation-16/slides/week7#/)
 - [Open field](http://www.walkerart.org/open-field-conversations-on-the-commons) at Walker
 - [Sheetal Prajapati](http://sheetalprajapati.com/) at [MoMA](https://www.moma.org/calendar/programs/57#artists)
 - [Shaun Leonardo](http://elcleonardo.com/) at [New Museum](http://www.newmuseum.org/pages/view/persona)
@@ -269,34 +251,49 @@ April 2, 2018
 - [Machine Project](http://www.machineproject.com/files/pdf/MP0806_LACMA_Final.lo-res.pdf) at LACMA
 - [Triple Canopy](https://www.canopycanopycanopy.com/contents/speculations-the-future-is-___________) at [PS1](http://www.momaps1.org/expo1/module/school/)
 - Queens Museum [Education department](http://www.queensmuseum.org/education)
+- [Christine Sun Kim](http://christinesunkim.com) at [Whitney](http://whitney.org/WhitneyStories/ChristineSunKim)
 
-[Museums, Managers of consciousness](https://github.com/tchoi8/teachingasart/blob/master/readings/museums_managers_of_consciousness.md)
-- An excerpt from [COULD BE NO.2: High School Special](http://mediacityseoul.kr/2016/en/project/could-be-no-2)
-
-## Week 9 Community as a school
+## Week 10 Community as a school
 
 April 9, 2018
 
+ 
+Part 1: Lecture on community learning initiatives 
 
+Part 2: Final project proposal and feedback 
+
+[Museums, Managers of consciousness](https://github.com/tchoi8/teachingasart/blob/master/readings/museums_managers_of_consciousness.md)
+- An excerpt from [COULD BE NO.2: High School Special](http://mediacityseoul.kr/2016/en/project/could-be-no-2)
+- [Making Lab](https://4.apap.or.kr/en/makinglab)
+- [Poetic Science Fair](http://blog.sfpc.io/post/104936684316/poetic-science-fair-at-silent-barn)
+- Night School, [Museum as Hub](http://archive.newmuseum.org/index.php/Detail/Occurrence/Show/occurrence_id/951)
 - [Suzanne Lacy](https://suzannelacy.com) – LA & global
 - [Conflict Kitchen](http://conflictkitchen.org/) – Pittsburgh
 - The concept of care - Bernard Stiegler  
+- [Art of crossing the street](https://crossingstreet.wordpress.com/)
 
-
-## Week 10 Final project proposal
+## Week 11 Final presentation 1 
 
 April 16, 2018
 
+Student presentations and feedback 
 
-## Week 11 Finals
+- Nate 
+- Zach
+- Jesse 
+- Oren
+
+## Week 12 Final presentation 2 
 
 April 23, 2018
 
-Student presentation on their final project: workshop.
+- Kathy
+- Stevie
+- Beverly
 
-## Week 12 Final Final
+Student presentations and feedback 
+ 
 
-Last lecture and discussion 
 
 ### Instructor information
 
