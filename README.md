@@ -280,16 +280,20 @@ Student presentations and feedback
 
 - Nate 
 - Zach
-- Jesse 
-- Oren
+- Andrew
+- Stevie
+- Nathier
 
 ## Week 12 Final presentation 2 
 
 April 23, 2018
-
+- Oren
 - Kathy
 - Stevie
 - Beverly
+- Jesse 
+- Michael 
+- Ridwan
 
 Student presentations and feedback 
  
