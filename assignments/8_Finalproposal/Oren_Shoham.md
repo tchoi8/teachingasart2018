@@ -8,7 +8,7 @@ This workshop will be aimed at people with a basic understanding of programming 
 
 The workshop will cover the basics of the GLSL programming language, as well as an explanation of the differences between computation on the CPU vs. the GPU and why shaders are fast. I won't try to go over topics like OpenGL/WebGL or vertex shaders, because an hour isn't really enough time to include those as well.
 
-I'm planning on using (editor.thebookofshaders.com)[http://editor.thebookofshaders.com/], a browser-based shader code editor, for in-class GLSL examples, so that participants don't have to install anything beforehand.
+I'm planning on using [editor.thebookofshaders.com](http://editor.thebookofshaders.com/), a browser-based shader code editor, for in-class GLSL examples, so that participants don't have to install anything beforehand.
 
 I'll also prepare some code examples ahead of time that demonstrate the concepts that we discuss, and also show how to use shaders in various creative coding frameworks, such as Processing, p5.js, Three.js, openFrameworks, and Max/MSP/Jitter. These examples will be shared on a public GitHub repo so that workshop participants can review them later.
 
