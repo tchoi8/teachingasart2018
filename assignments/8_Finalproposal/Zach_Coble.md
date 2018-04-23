@@ -1,0 +1,9 @@
+I want to use final project as an opportunity to offer a workshop at Bobst that I have been reluctant to offer. The workshop will be a web scraping tutorial using Python. Here is a description:
+
+As more and more primary and secondary source material appears on websites, it is becoming increasingly important for scholars and librarians to learn how to collect with material at scale. Participants in this workshop will learn how to create a textual corpus using web scraping techniques. By the end of the workshop, participants will be comfortable using a variety of web scraping techniques, and will be able to generate a corpus and to prepare it for further analysis.
+
+We will write a program together using Python's Beautiful Soup library that scrapes textual data from websites. There are many types of websites and many types of data that can be gathered, so we will go through several examples so that participants learn strategies for scraping in a variety of contexts. Finally, once the data is gathered, we will perform a few additional steps to clean the data and prepare it for the next phase of analysis.
+
+While I sometimes offer workshops at the library, they are usually introductory and cover services that the library officially supports. However, there is a need on campus for this type of learning opportunity, even if I cannot offer "web scraping as a service," meaning that I would be responsible for supporting all types of technical and service questions that our patrons might have. I have been wanting to offer more advanced, one-off workshops like this for a while, and this will be a great opportunity to do a test run and see how it goes.
+
+The library has a workshops calendar, and I will add mine to that list, which will publicize the event and create a signup form so that anyone at NYU can register. The workshop will be offered in one of the computer labs at Bobst.
