@@ -19,7 +19,7 @@ Note: I'm not that strict on timing - the minute breakdown is a way for me to im
 
 _2 min:_ Introduce myself and the workshop. Give an overview of the schedule.
 
-_15 min:_  Give a brief presentation on gear mechanisms. A [PDF of slides are available here.]({{ site.baseurl }}/assets/taa/gear-mechanism-slides.pdf) And then the [animated slides are available here.](https://docs.google.com/presentation/d/1lMmTcKCESPAyK5c3PL4g-5efqZzF-CwG5gpinp5aOLw/edit?usp=sharing)
+_15 min:_  Give a brief presentation on gear mechanisms. A [PDF of slides are available here.](http://itp.beverlychou.com//assets/taa/gear-mechanism-slides.pdf) And then the [animated slides are available here.](https://docs.google.com/presentation/d/1lMmTcKCESPAyK5c3PL4g-5efqZzF-CwG5gpinp5aOLw/edit?usp=sharing)
 
 1. Why are mechanisms important?
 2. 6 types of movement --> 3 axes of translation and 3 axes of rotation
