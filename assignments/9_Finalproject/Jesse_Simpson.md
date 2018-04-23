@@ -1,6 +1,6 @@
 Syllabus
 
-Sound synthesis is an ever-evolving area of study and this workshop aims to look back at vintage technology (analog/modular synthesis) as a means for better understanding the same principles applied in computer music.  
+Sound synthesis is an ever-evolving area of study and this workshop aims to look back at vintage technology (analog/modular synthesis) as a means for better understanding the same principles applied in computer music and modern synthesizers.  
 
 Learning Objectives
 
